@@ -2,25 +2,46 @@ import bs4
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup as soup
 from lxml import html
+import json
+import re
+from re import sub
+from decimal import Decimal
+import csv
 
-# my_url = "https://www.co.jackson.ms.us/324/Inmate-Lookup"
-my_url ='http://www.co.hinds.ms.us/pgs/apps/inmate/inmate_list.asp?name_sch=&SS1=1&search_by_city=&search_by=&ScrollAction=Page+2'
-# opening up connection, grapping the page
-uClient = uReq(my_url)
-page_html = uClient.read()
+# to state details of inmates
+inmates = {}
+count_url = 'http://www.co.hinds.ms.us/pgs/apps/inmate/inmatecount.asp'
+uClient = uReq(count_url)
+count_html = uClient.read()
 uClient.close()
 
 # html parsing
-page_soup = soup(page_html, "html.parser")
-# print(page_soup.body.find("div", {"class":"outer-wrap"}))
-# file2write=open("filename",'w')
-# file2write.close()
-# print(page_soup.h1)
-# container = page_soup.findAll("div", {"id":"inmateListWrapper"})[0].findAll("article", {"class":"ilcard"})
-container = page_soup.find_all('a', {"class":"Right_Link"})
-# container = page_soup.select('#customHtmld7475a71-a0ea-4d23-b933-25c29af5ee39')[0].div.div
-
-# print(page_soup.body)
+page_soup = soup(count_html, "html.parser")
+container = page_soup.select("td")
 print(len(container))
-for i in container:
-    print(i.text)
+for i in range(len(container)-6)[::3]:
+    print(container[i].text.strip(), container[i+1].text, container[i+2].text)
+
+# for i in range (2):
+my_url ='http://www.co.hinds.ms.us/pgs/apps/inmate/inmate_list.asp?name_sch=&SS1=1&search_by_city=&search_by=&ScrollAction=Page+' + "1"
+uClient = uReq(my_url)
+page_html = uClient.read()
+uClient.close()
+page_soup = soup(page_html, "html.parser")
+container = page_soup.find_all('a', {"class":"Right_Link"})
+
+# # Store Values in CSV
+# csv_columns = list(list(inmates.values())[0].keys())
+# dict_data = list(inmates.values())
+# csv_file = "hinds_inmates.csv"
+#
+# try:
+#     with open(csv_file, 'w') as csvfile:
+#         writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+#         writer.writeheader()
+#         for data in dict_data:
+#             writer.writerow(data)
+# except IOError:
+#     print("I/O error")
+#
+# csvfile.close()

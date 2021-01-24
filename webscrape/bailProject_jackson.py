@@ -25,9 +25,11 @@ print("Total Inmate Count:", total_count )
 # to state details of inmates
 inmates = {}
 inmate_ID_list = []
-
+page = 0
+y = []
 # Iterate through the pages of inmates and get all the inmate IDs
-for page in range(2):
+while(len(y)>0 or page == 0): # increase the page count
+    page = page + 1
     inmate_ID = "https://services.co.jackson.ms.us/jaildocket/_inmateList.php?Function=list&Page=" + str(page)
     uClient = uReq(inmate_ID)
     inmate_ID = uClient.read()
@@ -37,8 +39,11 @@ for page in range(2):
         inmate_ID_list.append(i['ID_Number'].strip() )
         for k in range(10):
             del i[str(k)]
+        del i['RowNum']
+        del i['Name_Suffix']
         inmates[i['ID_Number'].strip()] = i
-print("ID Numbers:", len(inmate_ID_list))
+print("Total Count of ID Numbers Obtained:", len(inmate_ID_list))
+print("# of Pages of inmates on website:", page)
 
 
 bond_count = 0
@@ -55,9 +60,12 @@ for inmate_ID in inmate_ID_list:
     # Obtain inmate details (race, height, ... whether they are bondable )
     container = page_soup.select("[class~=iltext] p")
     name = []
+    bondable = "No"
     for i in container:
         item = ' '.join(i.string.split())
-        if item == 'Bondable': bondable_count = bondable_count +1
+        if item == 'Bondable':
+            bondable_count = bondable_count +1
+            bondable = "Yes"
         name.append(item)
 
     # Obtain their offense charge and bond amount
@@ -75,6 +83,7 @@ for inmate_ID in inmate_ID_list:
 
     # Store all values in dictionary for the inmate
     inmates[inmate_ID]["Total Bond($)"] = total
+    inmates[inmate_ID]["Bondable?"] = bondable
     inmates[inmate_ID]["inmate_info"] = name
     inmates[inmate_ID]["inmate_offense"] = offense
 
@@ -94,8 +103,9 @@ try:
     with open(csv_file, 'w') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
         writer.writeheader()
-        print("1")
         for data in dict_data:
             writer.writerow(data)
 except IOError:
     print("I/O error")
+
+csvfile.close()
