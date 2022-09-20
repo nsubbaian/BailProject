@@ -1,0 +1,1054 @@
+Name,Ages,Birthdays,Height,Weight,Race,Sex,Hair color,Eye color,Facial hair,Complexion,Off date,Case number,Intake date,Intake number,Arresting agency,Bondable?,Written bond,Cash bond,Offense(s)
+"AARON PAUL ABERNATHY
+                      
+",42,7/26/78,510,190,WHITE,M,BLONDE,GREEN,FULL BEA,FAIR,8/4/20,SO20009131,4/5/21,BK0000012772 - 004,MADISON SO,FALSE,0,0,"{'Description': ['Trafficking in Controlled Subs', 'Conspiracy'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"FREDDIE  ADAMS
+                      
+",44,12/24/76,509,155,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,8/21/20,BK0000004737 - 006,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"SALVADOR  AGUILAR-CRUZ
+                      
+",39,3/15/82,506,160,HISPANIC,M,BROWN,BROWN,THIN BEA,MEDIUM B,,,4/12/21,BK0000081729 - 002,ICE,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"TIMOTHY DANTE ALEXANDER
+                      
+",27,4/20/93,508,140,BLACK,M,BLACK,BROWN,THIN BEA,MEDIUM B,,,9/14/20,BK0000059996 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CARLOS DOMONIQUE ALLEN
+                      
+",32,6/27/88,601,175,BLACK,M,BLACK,BROWN,CLEAN SH,DARK,,,2/23/21,BK0000081602 - 001,MADISON PD,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo', 'Trafficking in Controlled Subs', 'Controlled Substance Violation', 'Controlled Substance Violation'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [262500.0, 262500.0, 262500.0, 262500.0]}"
+"DAVID SHERRAL ALLEN
+                      
+",37,3/21/84,601,275,BLACK,M,BLACK,BROWN,FUZZ,DARK,,,6/5/21,BK0000082090 - 001,MHP,TRUE,3350,0,"{'Description': ['Driving with Suspended/revoked', 'Reckless Driving', 'Leaving The Scene Of An Accide', 'Failure of Owner or Operator o', 'Failure to comply with request', 'Controlled Substance Violation', 'Foreign Warrant;Fugitive;Holdi'], 'Court': ['JUSTICE COURT', 'JUSTICE COURT', 'JUSTICE COURT', 'JUSTICE COURT', 'JUSTICE COURT', 'JUSTICE COURT', 'CIRCUIT COURT'], 'Bond amount': [500.0, 250.0, 1000.0, 500.0, 500.0, 600.0, 0.0]}"
+"ANTHONY LAMONT ANDERSON
+                      
+",41,10/8/79,600,440,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM B,,,4/23/20,BK0000022602 - 003,FBI,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CHRISTINA MARIE ANDERSON
+                      
+",30,1/3/91,507,183,BLACK,F,BLACK,BROWN,CLEAN SH,LIGHT,,,6/2/21,BK0000078282 - 002,OTHER AGENCY/OVERNIGHT,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"JAYLON JOHANN ANDERSON
+                      
+",27,3/10/94,604,160,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,5/4/20,BK0000070258 - 004,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JEREMY JERMAINE ANDERSON
+                      
+",37,3/14/84,601,190,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM B,,,5/5/21,BK0000072139 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JOHN ROBERT ANDERSON
+                      
+",33,8/24/87,505,150,AMERICAN,M,BALD,BROWN,CLEAN SH,MEDIUM,,,1/31/20,BK0000040405 - 007,US MARSHAL,FALSE,0,0,"{'Description': ['Simple Assualt-Attempt By Phyi'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"MIKE AUSTIN ANDERSON
+                      
+",35,3/17/86,509,260,AMERICAN,M,BLACK,BROWN,MUSTACHE,OLIVE,,,6/3/21,BK0000082075 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"RANDY LAMAR ANDERSON
+                      
+",48,7/12/72,511,255,AMERICAN,M,BLACK,BROWN,CLEAN SH,LIGHT BR,,,6/3/20,BK0000076637 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JOSE RAMON ANDINO-GONZALEZ
+                      
+",35,7/17/85,505,160,HISPANIC,M,BLACK,BLACK,NOT APPL,LIGHT,,,4/8/21,BK0000081783 - 002,ICE,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"BRIAN KEITH ARNOLD
+                      
+",42,11/15/78,510,155,WHITE,M,BROWN,HAZEL,GOATEE,FAIR,5/11/21,SO21006251,5/11/21,BK0000012316 - 011,MADISON SO,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"RONNIE ANTWOINE ARNOLD
+                      
+",31,8/2/89,508,150,BLACK,M,BALD,BROWN,FULL BEA,DARK BRO,,,8/6/19,BK0000049468 - 002,FBI,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS', 'Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0]}"
+"ANTHONY WAYNE ATKINSON
+                      
+",68,2/18/53,508,186,WHITE,M,GRAY/GRA,HAZEL,CLEAN SH,OLIVE,,,1/31/20,BK0000079792 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Sexually-oriented Material: Di'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ROGER DARRELL BAGWELL
+                      
+",54,9/13/66,600,225,WHITE,M,GRAY/GRA,GREEN,MUSTACHE,FAIR,,,4/23/21,BK0000080815 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CADRIUS KENTRELL BAKER
+                      
+",23,12/11/97,601,180,BLACK,M,BLACK,BROWN,UNSHAVEN,MEDIUM B,,,12/28/20,BK0000072246 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"BENNIE EUGENE BANKS
+                      
+",22,8/7/98,509,160,BLACK,M,BLACK,BROWN,GOATEE,LIGHT BR,,COURT,5/17/21,BK0000080032 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Fradulent Use of Identificatio', 'Fradulent Use of Identificatio', 'Conspiracy', 'Receiving Stolen Property'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"FREDRICK TRUE BEALE
+                      
+",41,6/10/79,508,160,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,,,4/7/21,BK0000081803 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"TRAY ALLEN BEAMON
+                      
+",34,4/2/86,607,245,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,5/31/18,BK0000074938 - 001,US CUSTOMS,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CHARLES DALE BEARD
+                      
+",50,4/27/70,506,200,WHITE,M,BALD/BAL,BLUE,FULL BEA,LIGHT,,,2/27/21,BK0000076513 - 003,RIDGELAND PD,FALSE,0,0,"{'Description': ['Improper Turn (No Turn Signal)', 'Controlled Substance Violation'], 'Court': ['RIDGELAND COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 2500.0]}"
+"KENYARDER TERMAINE BELL
+                      
+",39,5/7/81,507,240,BLACK,M,BLACK,BROWN,FU MANCH,MEDIUM,,,3/12/20,BK0000080150 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Controlled Substance Violation'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"WESLEY ARMOND BELL
+                      
+",41,3/21/80,602,205,BLACK,M,BLACK,BROWN,CLEAN SH,MEDIUM B,,,3/16/20,BK0000075657 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"RICHARD BENJAMIN BEN
+                      
+",42,10/11/78,508,190,AMERICAN,M,BLACK,BROWN,GOATEE,LIGHT BR,,,6/2/21,BK0000059649 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"TRAVARIS DEVON BISHOP
+                      
+",36,12/19/84,602,180,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,,,9/3/20,BK0000051563 - 005,FBI,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo', 'Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"SHAWN JOSEPH BLACKBURN
+                      
+",41,12/21/79,510,225,WHITE,M,BROWN,HAZEL,GOATEE,OLIVE,,,10/14/19,BK0000078936 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Controlled Substance Violation', 'Controlled Substance Violation', 'Controlled Substance Violation', 'Conspiracy'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'RIDGELAND COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0]}"
+"JOHNNY SAXTON BLAIR
+                      
+",52,4/7/68,503,150,WHITE,M,GRAY/GRA,BROWN,UNSHAVEN,LIGHT,,,1/26/21,BK0000000229 - 006,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CHRISTOPHER JAMES BLAYLOCK
+                      
+",50,11/14/70,409,123,WHITE,M,BALD/BAL,BROWN,GOATEE,MEDIUM B,,,6/26/20,BK0000080523 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Counterfeit Instrument: Forger', 'Counterfeit Instrument: Forger'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"LATRICE CHARRELLE BOLER
+                      
+",31,8/7/89,504,220,BLACK,F,BLACK,BROWN,NOT APPL,LIGHT,,,6/5/18,BK0000074964 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Controlled Substance Violation'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ROBERT LEE BOLTON
+                      
+",34,8/27/86,509,230,BLACK,M,BALD/BAL,BROWN,FULL BEA,MEDIUM B,,,5/5/21,BK0000063790 - 002,FLORA PD,FALSE,0,0,"{'Description': ['Disturbing the Peace', 'Fleeing LEA Vehicle / Resistin', 'Disturbing the Peace', 'Aggravated Assault', 'Aggravated Assault', 'Aggravated Assault', 'Aggravated Assault', 'Attempted Crime', 'Disturbing the Peace', 'Aggravated Assault'], 'Court': ['FLORA COURT', 'FLORA COURT', 'FLORA COURT', 'FLORA COURT', 'FLORA COURT', 'FLORA COURT', 'FLORA COURT', 'FLORA COURT', 'FLORA COURT', 'FLORA COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"AMBER NICOLE BOUNDS
+                      
+",34,2/24/87,502,142,WHITE,F,BLONDE,BLUE,NOT APPL,LIGHT,,COURT,5/4/21,BK0000072523 - 007,MADISON SO,FALSE,0,0,"{'Description': ['Contempt of Court for Failure'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"SAGE TRAQUIL BRADDY
+                      
+",24,4/22/96,509,150,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,12/11/20,BK0000068401 - 003,DEA,FALSE,0,0,"{'Description': ['Conspiracy', 'C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['FEDERAL COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0]}"
+"NOAH KEYON BRADFORD
+                      
+",22,8/27/98,602,180,BLACK,M,BLACK,BROWN,THIN BEA,MEDIUM B,,,6/11/21,BK0000071819 - 004,RIDGELAND PD,FALSE,0,0,"{'Description': ['Robbery - Armed', 'Felon Carrying Concealed Weapo'], 'Court': ['RIDGELAND COURT', 'RIDGELAND COURT'], 'Bond amount': [0.0, 0.0]}"
+"KRISTOPHER CALVIN BRANCH
+                      
+",44,3/21/77,507,175,WHITE,M,RED OR A,BLUE,GOATEE,OLIVE,,,5/6/21,BK0000050306 - 004,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JAMES TAYLOR BRITAIN
+                      
+",51,5/28/69,508,145,WHITE,M,GRAY/GRA,BROWN,GOATEE,LIGHT,,,9/11/19,BK0000078612 - 001,ATF,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"RYAN CRAIG BROWN
+                      
+",36,11/13/84,507,194,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,9/25/18,BK0000075630 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ADAM CLAYTON BRUMFIELD
+                      
+",47,4/5/73,601,250,WHITE,M,BROWN,BROWN,GOATEE,MEDIUM,,,2/24/21,BK0000081606 - 001,ATF,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"REGAN EMILY BRYAN
+                      
+",27,2/19/94,502,295,WHITE,F,BROWN,BLUE,NOT APPL,LIGHT,,,3/29/21,BK0000081399 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CORTNEY DEMOND BUCKLEY
+                      
+",38,1/8/83,506,140,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,,,5/21/21,BK0000033181 - 004,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"EMANUEL LEE SAMUEL BUCKNER
+                      
+",33,11/7/87,510,175,BLACK,M,BLACK,BROWN,GOATEE,LIGHT,,,12/2/20,BK0000081299 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo', 'Possession of Stolen Firearm', 'Armed Carjacking/Attempted Arm', 'Fleeing LEA Vehicle / Resistin', 'Failure to comply with request'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'RIDGELAND COURT', 'RIDGELAND COURT'], 'Bond amount': [5000.0, 5000.0, 0.0, 0.0, 0.0]}"
+"JOSEPH WEBSTER BUFKIN
+                      
+",27,6/24/93,600,135,WHITE,M,BROWN,GREEN,CLEAN SH,FAIR,,COURT,4/5/21,BK0000060844 - 004,MADISON SO,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS', 'Conspiracy', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'Trafficking in Controlled Subs', 'C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"KENTARIO  BUIE
+                      
+",19,1/17/02,600,145,BLACK,M,BLACK,BROWN,GOATEE,DARK,,,5/27/21,BK0000082039 - 001,MADISON PD,FALSE,0,0,"{'Description': ['Burglary; All but Dwelling', 'Burglary - All but Dwelling'], 'Court': ['MADISON COURT', 'MADISON COURT'], 'Bond amount': [0.0, 0.0]}"
+"CHRISTIAN BLAKE BUNYARD
+                      
+",19,12/24/01,506,150,WHITE,M,BLACK,BROWN,CLEAN SH,FAIR,,,11/9/20,BK0000081200 - 001,FBI,FALSE,0,0,"{'Description': ['Conspiracy', 'Conspiracy'], 'Court': ['FEDERAL COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0]}"
+"HAKEEM SAMALL BURNETT
+                      
+",30,3/28/90,508,140,BLACK,M,BALD,BLACK,FU MANCH,MEDIUM,,,1/30/20,BK0000079783 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"BRAXTON DONTREL BURNS
+                      
+",35,3/7/86,600,230,BLACK,M,BLACK,BROWN,MUSTACHE,DARK BRO,,,4/22/19,BK0000036727 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"BILLY JOE BUTLER
+                      
+",69,3/28/52,601,155,BLACK,M,GRAY/GRA,BROWN,MUSTACHE,MEDIUM,,COURT,4/5/21,BK0000065754 - 013,MADISON SO,FALSE,0,0,"{'Description': ['DUI - Third or Subsequent Conv', 'Probation Violation'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"MARIO DEMOND BUTLER
+                      
+",40,11/18/80,510,280,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM,,,2/23/21,BK0000056717 - 004,FBI,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS', 'Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0]}"
+"CORTEZ LAKEITH BYRD
+                      
+",29,12/30/91,510,180,BLACK,M,BLACK,BROWN,FUZZ,DARK,,,4/4/18,BK0000074591 - 001,DEA,FALSE,0,0,"{'Description': ['Conspiracy', 'Controlled Substance Violation'], 'Court': ['FEDERAL COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0]}"
+"JESSICA MORGAN BYRD
+                      
+",31,4/29/89,504,120,WHITE,F,BLONDE,BLUE,NOT APPL,OLIVE,,,3/20/21,BK0000081698 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Controlled Substance Violation', 'Controlled Substance Violation'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [2500.0, 2500.0]}"
+"JOHN RASHID BYRD
+                      
+",19,5/21/01,511,181,BLACK,M,BLACK,BROWN,GOATEE,DARK,,,3/17/21,BK0000081684 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Failure to comply with request', 'Receiving Stolen Property', 'Fradulent Use of Identificatio', 'Taking Away of a Motor Vehicle', 'Taking Away of a Motor Vehicle'], 'Court': ['RIDGELAND COURT', 'CIRCUIT COURT', 'RIDGELAND COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 20000.0, 0.0, 20000.0, 20000.0]}"
+"DEBRA DIANA CAMERON
+                      
+",59,12/12/61,507,135,WHITE,F,BLONDE,HAZEL,NOT APPL,FAIR,,,6/9/20,BK0000038223 - 003,RIDGELAND PD,FALSE,0,0,"{'Description': ['Conspiracy', 'Kidnaping', 'Robbery - Armed', 'Armed Carjacking/Attempted Arm', 'Aggravated Assault'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [1000000.0, 0.0, 0.0, 0.0, 0.0]}"
+"LAREGIOUS DEANGELO CARTER
+                      
+",21,10/27/99,511,160,BLACK,M,BLACK,BROWN,FUZZ,MEDIUM B,,COURT,1/25/21,BK0000079104 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Accessory After the Fact'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"JUSTINE NICOLE CHAMBERS
+                      
+",31,12/2/89,505,246,BLACK,F,BLACK,BROWN,NOT APPL,LIGHT BR,,,3/16/20,BK0000079653 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"MICHAEL DEVON CHANEY
+                      
+",32,8/2/88,508,203,BLACK,M,BLACK,BROWN,MUSTACHE,DARK BRO,,,3/23/21,BK0000051594 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CONNERLY JEROME CHAPMAN
+                      
+",34,11/26/86,505,165,BLACK,M,BALD/BAL,BROWN,UNSHAVEN,DARK BRO,1/27/21,SO21001235,1/27/21,BK0000046348 - 003,MADISON SO,FALSE,0,0,"{'Description': ['Shoplifting', 'Conspiracy'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"ALBERT BURNELL CHATMAN
+                      
+",26,9/26/94,600,180,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM,,COURT,3/23/21,BK0000081716 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"KENDRICK RASHAD CLAIBORNE
+                      
+",29,3/8/92,511,183,BLACK,M,BLACK,BROWN,FU MANCH,MEDIUM,,,2/21/20,BK0000079993 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Controlled Substance Violation'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"TERRANCE DEMOND CLARK
+                      
+",44,6/28/76,510,150,BLACK,M,BLACK,BROWN,THIN BEA,MEDIUM B,,,6/11/21,BK0000082121 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"AKOYEA  CLAYTON
+                      
+",28,12/4/92,510,230,BLACK,M,BLACK,BROWN,MUSTACHE,MEDIUM B,,,2/23/21,BK0000081597 - 001,FBI,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ANDREW WESLEY COCHELL
+                      
+",45,7/16/75,600,140,WHITE,M,GRAY/GRA,BLUE,GOATEE,FAIR,,,11/5/20,BK0000081175 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JOHNNY JERMAINE COLEMAN
+                      
+",31,6/13/89,602,220,BLACK,M,BLACK,BROWN,GOATEE,LIGHT BR,4/6/21,SO21004481,4/6/21,BK0000079343 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Fleeing LEA Vehicle / Resistin', 'Controlled Substance Violation', 'Controlled Substance Violation', 'Felon Carrying Concealed Weapo', 'C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0]}"
+"TIJAHL LABASTIAN COWART
+                      
+",28,5/18/92,600,237,BLACK,M,BLACK,BROWN,FUZZ,DARK BRO,,,8/24/20,BK0000080798 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"BILLY RAY CRAVEN
+                      
+",53,8/16/67,511,300,WHITE,M,BALD/BAL,BLUE,FULL BEA,FAIR,,,6/8/21,BK0000082102 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ALEX PERNELL DAVIS
+                      
+",32,12/5/88,505,150,BLACK,M,BLACK,BROWN,GOATEE,DARK,,,4/27/21,BK0000061574 - 007,MADISON PD,FALSE,0,0,"{'Description': ['Shoplifting'], 'Court': ['MADISON COURT'], 'Bond amount': [0.0]}"
+"DONALD LEE DAVIS
+                      
+",43,7/16/77,507,170,BLACK,M,BLACK,BROWN,FUZZ,DARK BRO,,COURT,9/28/20,BK0000015394 - 012,MADISON SO,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"MARCUS ANTONIO DAVIS
+                      
+",41,12/22/79,601,150,BLACK,M,BLACK,BROWN,FUZZ,DARK BRO,,,2/23/21,BK0000081596 - 001,FBI,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"MARIO LYNARD DAVIS
+                      
+",35,5/10/85,505,145,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,COURT,9/28/20,BK0000037969 - 004,MADISON SO,FALSE,0,0,"{'Description': ['Sexual Battery', 'Kidnaping', 'Felon Carrying Concealed Weapo'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0]}"
+"QUINTAVIOUS DAISHAWN DAVIS
+                      
+",21,12/23/99,601,180,BLACK,M,BLACK,BROWN,CLEAN SH,DARK BRO,10/30/19,SO19015490,4/5/21,BK0000079295 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Larceny - Grand', 'Burglary - All but Dwelling', 'Sell,Delivery or Transfer of S', 'Malicious Mischief', 'Conspiracy', 'Grand Larceny;Motor Vehicle,Se'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"JALEN DEONTE DAY
+                      
+",26,2/6/95,509,180,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,7/8/20,BK0000080580 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Trafficking in Controlled Subs', 'C/S SELL, TRADE, BARTER DRUGS', 'Controlled Substance Violation', 'Enhancement of Penalty for Dru'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'RIDGELAND COURT'], 'Bond amount': [12500.0, 12500.0, 25000.0, 0.0]}"
+"CARNELL VONSHA DENMAN
+                      
+",42,8/21/78,510,210,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM,,,2/23/21,BK0000015580 - 002,FBI,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS', 'Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0]}"
+"MAURICE ADAM DENT
+                      
+",34,8/9/86,603,275,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM B,,,3/22/19,BK0000043010 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ALAN MATTHEW DICKERSON
+                      
+",37,1/8/84,602,200,WHITE,M,BROWN,HAZEL,GOATEE,LIGHT,,,11/18/20,BK0000080901 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"KRISTY MARION DIER
+                      
+",35,2/12/86,507,180,WHITE,F,BROWN,BROWN,NOT APPL,FAIR,,,3/29/19,BK0000036250 - 005,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ANTONIO DEMOND DOSS
+                      
+",27,3/6/94,509,168,BLACK,M,BLACK,BROWN,CLEAN SH,LIGHT,,,2/23/21,BK0000081600 - 001,FBI,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CARSEINE DANTE ECHOLS
+                      
+",23,10/31/97,505,140,BLACK,M,BLACK,BROWN,THIN BEA,DARK,,,9/19/19,BK0000078695 - 001,FBI,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ELIJAH RAYMOND ENGRAM
+                      
+",60,7/21/60,605,240,BLACK,M,BLACK,BROWN,MUSTACHE,DARK BRO,,,5/25/21,BK0000071220 - 003,MDOC,FALSE,0,0,"{'Description': ['Probation Violation'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"RYAN ANTHONY EPPS
+                      
+",33,10/9/87,600,150,BLACK,M,BLACK,BROWN,GOATEE,DARK,,,6/11/21,BK0000040925 - 007,MADISON PD,FALSE,0,0,"{'Description': ['DUI - Third or Subsequent Conv', 'Driving with Suspended/revoked'], 'Court': ['MADISON COURT', 'MADISON COURT'], 'Bond amount': [0.0, 0.0]}"
+"JOHN KENWARD ERROL
+                      
+",20,12/13/00,502,170,AMERICAN,M,BROWN,BROWN,GOATEE,MEDIUM B,,,4/27/21,BK0000081894 - 001,FBI,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JEREMY JERMAINE ERVIN
+                      
+",35,12/2/85,506,153,BLACK,M,BLACK,BROWN,MUSTACHE,LIGHT,,,1/29/21,BK0000039302 - 002,RIDGELAND PD,FALSE,0,0,"{'Description': ['License plate: no tag, expired', 'Controlled Substance Violation', 'Felon Carrying Concealed Weapo', 'Enhancement of Penalty for Dru', 'Parole Violation'], 'Court': ['RIDGELAND COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'RIDGELAND COURT', 'OTHER COUR COURT'], 'Bond amount': [0.0, 10000.0, 10000.0, 0.0, 0.0]}"
+"DENNIS OMAR ESCOBAR-CASTRO
+                      
+",29,11/30/91,505,153,HISPANIC,M,BLACK,BROWN,THIN BEA,MEDIUM B,,,3/20/19,BK0000076898 - 001,ICE,FALSE,0,0,"{'Description': ['18USC1325 ILLEGAL ENTRY-ALIEN'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"LARON  EVANS
+                      
+",35,8/1/85,506,130,BLACK,M,BLACK,BROWN,THIN BEA,MEDIUM B,,,5/9/19,BK0000061087 - 003,FBI,FALSE,0,0,"{'Description': ['Fraud - by Mail/phone/newspape'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"WADDAH  FARAH
+                      
+",41,3/8/80,509,165,BLACK,M,BALD/BAL,BROWN,FULL BEA,MEDIUM B,,,3/1/21,BK0000034156 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"BRANDON KEITH FARMER
+                      
+",28,4/27/93,505,140,OTHER,M,BLACK,BROWN,FUZZ,OLIVE,,,4/29/21,BK0000064701 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JAMERE DESHUN FLEMING
+                      
+",26,8/31/94,511,150,BLACK,M,BLACK,BROWN,FUZZ,MEDIUM B,3/9/21,SO21003122,3/9/21,BK0000064501 - 009,MADISON SO,FALSE,0,0,"{'Description': ['Burglary - All but Dwelling'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"JOSYLDENJASMON SHERWAYNE FLEMING
+                      
+",26,10/6/94,509,140,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,6/11/21,SO21008078,6/11/21,BK0000070189 - 007,MADISON SO,FALSE,0,0,"{'Description': ['Contempt of Court for Failure'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"MONTEZ DEJUAN FLEMING
+                      
+",33,11/21/87,511,185,BLACK,M,BLACK,BROWN,MUSTACHE,MEDIUM B,,,6/3/20,BK0000078894 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy', 'Introduction Of Contraband'], 'Court': ['FEDERAL COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 20000.0]}"
+"ARTHUR LEQARTRUS FLOWERS
+                      
+",37,3/23/84,504,203,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,3/16/21,BK0000078915 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CHARLES ZACH FORNES
+                      
+",69,12/10/51,507,145,WHITE,M,GRAY/GRA,BLUE,MUSTACHE,FAIR,4/19/21,SO21005091,4/19/21,BK0000081856 - 001,MADISON SO,TRUE,250,0,"{'Description': ['Trafficking in Controlled Subs', 'Careless Driving'], 'Court': ['CIRCUIT COURT', 'JUSTICE COURT'], 'Bond amount': [25000.0, 250.0]}"
+"ZACHARY BLAKE FOWLER
+                      
+",32,2/21/89,510,140,WHITE,M,BROWN,BLUE,FUZZ,LIGHT,,,6/13/21,BK0000054319 - 005,RIDGELAND PD,FALSE,0,0,"{'Description': ['Controlled Substance Violation'], 'Court': ['RIDGELAND COURT'], 'Bond amount': [0.0]}"
+"JOSEPH THOMAS FRANCIS
+                      
+",59,4/17/61,507,150,WHITE,M,BROWN,HAZEL,MUSTACHE,FAIR,8/27/20,SO20010213,1/6/21,BK0000021220 - 004,MADISON SO,FALSE,0,0,"{'Description': ['Controlled Substance Violation'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"VERONICA JOSELYN FREDRICK
+                      
+",31,6/22/89,503,135,WHITE,F,BLACK,BLUE,NOT APPL,OLIVE,,,4/8/21,BK0000065224 - 004,MADISON PD,FALSE,0,0,"{'Description': ['Careless Driving', 'Motor Vehicle Violation - No/E', 'Failure of Owner or Operator o', 'License plate: no tag, expired', 'DUI - First Offense DUI', 'Controlled Substance Violation', 'POSS OF PARAPHERNALIA'], 'Court': ['MADISON COURT', 'MADISON COURT', 'MADISON COURT', 'MADISON COURT', 'MADISON COURT', 'MADISON COURT', 'MADISON COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"NOAH MACKEINCE GAGNEAUX
+                      
+",19,9/5/01,508,140,WHITE,M,BROWN,BLUE,NOT APPL,FAIR,,COURT,4/5/21,BK0000078614 - 002,MADISON SO,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS', 'Conspiracy'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"MICHAEL DAVID GAMMILL
+                      
+",45,12/19/75,511,156,WHITE,M,BALD/BAL,HAZEL,UNSHAVEN,FAIR,,,6/11/21,BK0000076101 - 004,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JOSHUA MICHAEL GARCIA
+                      
+",41,4/19/79,507,150,WHITE,M,BLONDE,HAZEL,NOT APPL,LIGHT,,,2/2/17,BK0000072019 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Capital Murder', 'Capital Murder', 'Capital Murder', 'Robbery - Armed', 'Escape - Inmates/trusties', 'Habitual Offenders Sentenced t'], 'Court': ['FEDERAL COURT', 'FEDERAL COURT', 'FEDERAL COURT', 'FEDERAL COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"QUINCY BERTRAM GARDNER
+                      
+",42,9/24/78,508,225,BLACK,M,BLACK,BROWN,GOATEE,LIGHT BR,,,2/3/21,BK0000012468 - 008,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ELADIO  GASPER
+                      
+",22,9/8/98,503,150,HISPANIC,M,BLACK,BROWN,CLEAN SH,OLIVE,,,1/9/20,BK0000079624 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Robbery - Armed', 'Robbery - Armed', 'Robbery - Armed', 'Conspiracy', 'Accessory After the Fact', 'Accessory After the Fact'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"GREGORY LASHAUN GAVIN
+                      
+",42,7/5/78,506,150,BLACK,M,BALD/BAL,BROWN,GOATEE,MEDIUM B,,,6/8/21,BK0000082105 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"LEVI  GIBBS
+                      
+",50,4/5/70,506,170,BLACK,M,BALD,BROWN,FUZZ,DARK,,,4/7/20,BK0000080249 - 001,FBI,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"DANNY EARL GIPSON
+                      
+",18,1/18/03,511,160,BLACK,M,BLACK,BROWN,MUSTACHE,DARK,,,4/20/21,BK0000081860 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['False Pretenses', 'False Information or Identific'], 'Court': ['RIDGELAND COURT', 'RIDGELAND COURT'], 'Bond amount': [0.0, 0.0]}"
+"JAMES LAMON GLENN
+                      
+",37,12/14/83,507,170,BLACK,M,BALD,BROWN,GOATEE,MEDIUM B,,COURT,4/1/21,BK0000078570 - 003,OTHER AGENCY/OVERNIGHT,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"RENE OLIVERIO GOMEZ-CISNEROS
+                      
+",35,11/14/85,507,150,HISPANIC,M,BLACK,BROWN,GOATEE,LIGHT BR,,,4/8/21,BK0000081773 - 002,ICE,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"TOBY WAYNE GOSS
+                      
+",51,9/10/69,510,180,WHITE,M,BROWN,BLUE,THIN BEA,FAIR,,S021008211,6/13/21,BK0000022402 - 008,MARION SO,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo', 'DUI - First Offense DUI'], 'Court': ['JUSTICE COURT', 'JUSTICE COURT'], 'Bond amount': [0.0, 0.0]}"
+"WARREN JEROME GOSS
+                      
+",23,10/29/97,600,170,BLACK,M,BROWN,BROWN,CLEAN SH,MEDIUM B,,,2/3/21,BK0000081522 - 001,ATF,FALSE,0,0,"{'Description': ['Conspiracy', 'Controlled Substance Violation', 'Controlled Substance Violation', '97-37-17(2)         Weapons, P'], 'Court': ['FEDERAL COURT', 'FEDERAL COURT', 'FEDERAL COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0]}"
+"JERRICO  GRANT
+                      
+",37,6/14/83,507,160,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,6/9/21,SO21007968,5/25/21,BK0000036815 - 020,MADISON SO,FALSE,0,0,"{'Description': ['Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Receiving Stolen Property', 'Motor Vehicle:failure to stop'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"DEONDRIC DEVONTAE-REMON GREEN
+                      
+",20,9/16/00,510,243,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM,4/25/21,SO21005410,4/25/21,BK0000080317 - 003,MADISON SO,FALSE,0,0,"{'Description': ['Capital Murder', 'Murder', 'Aggravated Assault', 'Aggravated Assault', 'Shooting into Vehicle (Train,'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0]}"
+"KEITH LAMAR GREEN
+                      
+",24,3/30/96,509,190,BLACK,M,BLACK,BROWN,CLEAN SH,MEDIUM B,,,2/12/21,BK0000081562 - 001,MADISON PD,FALSE,0,0,"{'Description': ['Motor Vehicle; failure to stop', 'Simple Domestic Violence;Simpl', 'Driving with Suspended/revoked', 'Disobedience of Traffic Contro', 'Disobedience of Traffic Contro', 'Failure of Owner or Operator o', 'Taking Away of a Motor Vehicle', 'Kidnaping'], 'Court': ['MADISON COURT', 'MADISON COURT', 'MADISON COURT', 'MADISON COURT', 'MADISON COURT', 'MADISON COURT', 'MADISON COURT', 'MADISON COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"KENNETH ANTONIO GREEN
+                      
+",33,11/18/87,500,125,BLACK,M,BLACK,BROWN,GOATEE,DARK,6/11/21,SO21008126,6/11/21,BK0000067669 - 003,MADISON SO,FALSE,0,2012.5,"{'Description': ['Improper Equipment on Vehicle', 'Failure of Owner or Operator o', 'Driving with Suspended/revoked', 'Improper Equipment on Vehicle', 'License plate: no tag, expired', 'Failure of Owner or Operator o'], 'Court': ['JUSTICE COURT', 'JUSTICE COURT', 'JUSTICE COURT', 'JUSTICE COURT', 'JUSTICE COURT', 'JUSTICE COURT'], 'Bond amount': [200.0, 412.5, 500.0, 250.0, 250.0, 400.0]}"
+"CHRISTOPHER DEMON GRIFFIN
+                      
+",31,12/17/89,505,181,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,,,6/10/19,BK0000077638 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Human Trafficking'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"DAMIEN DEVONTA GRIFFIN
+                      
+",26,6/8/94,601,175,BLACK,M,BLACK,BROWN,FULL BEA,DARK BRO,7/8/20,SO20008009,5/17/21,BK0000059980 - 013,MADISON SO,FALSE,0,0,"{'Description': ['Trafficking in Controlled Subs', 'C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"JAMES MARK GRIFFITH
+                      
+",63,11/9/57,511,150,WHITE,M,GRAY/GRA,BROWN,FULL BEA,FAIR,,,4/9/21,BK0000033786 - 007,RIDGELAND PD,FALSE,0,0,"{'Description': ['Unlawful for any Person to Abu', 'Controlled Substance Violation', 'POSS OF PARAPHERNALIA'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'RIDGELAND COURT'], 'Bond amount': [10000.0, 1500.0, 0.0]}"
+"JAMES EDWARD GWIN
+                      
+",33,8/18/87,605,175,BLACK,M,BLACK,BROWN,FULL BEA,LIGHT BR,,,4/9/21,BK0000081035 - 003,US MARSHAL,TRUE,1000,0,"{'Description': ['Conspiracy', 'Destroying,Injuring, etc State', 'Introduction Of Contraband'], 'Court': ['FEDERAL COURT', 'JUSTICE COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 1000.0, 20000.0]}"
+"MYCIAH JAWON HARALSON
+                      
+",23,12/21/97,601,195,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM B,,,11/23/20,BK0000069426 - 004,RIDGELAND PD,FALSE,0,0,"{'Description': ['Shoot into Dwelling', 'Aggravated Assault', 'Burglary; All but Dwelling', 'Attempted Murder', 'Felon Carrying Concealed Weapo', 'Probation Violation'], 'Court': ['CIRCUIT COURT', 'RIDGELAND COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"JARVIS DEMARCUS HARPER
+                      
+",27,12/23/93,505,164,BLACK,M,BLACK,BROWN,GOATEE,LIGHT,,,3/17/20,BK0000072502 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"UNDRA TERRELL HARPER
+                      
+",39,9/18/81,509,175,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,6/8/21,BK0000050377 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JAHEEN TYRONE HARRIS
+                      
+",18,4/22/02,602,220,BLACK,M,BLACK,BROWN,THIN BEA,DARK BRO,,,1/8/21,BK0000081402 - 001,CANTON PD,TRUE,1000,0,"{'Description': ['Capital Murder', 'Robbery - Armed', 'Conspiracy', 'Possession of Stolen Firearm', 'Arson - Dwelling', 'Aggravated Assault', 'Introduction Of Contraband', 'Destroying,Injuring, etc State', 'Introduction Of Contraband', 'Introduction Of Contraband', 'Attempted Crime'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'JUSTICE COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 250000.0, 100000.0, 100000.0, 100000.0, 0.0, 0.0, 1000.0, 20000.0, 20000.0, 20000.0]}"
+"JOHNNIE FREEMAN HARRIS
+                      
+",35,11/14/85,508,145,BLACK,M,BLACK,BROWN,GOATEE,LIGHT,,,5/18/21,BK0000059986 - 007,US MARSHAL,FALSE,0,0,"{'Description': ['Aggravated Assault', 'Felon Carrying Concealed Weapo'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"CURTIS TYAUN HART
+                      
+",20,5/27/00,505,190,BLACK,M,BLACK,BROWN,CLEAN SH,MEDIUM B,,COURT,3/23/21,BK0000075222 - 005,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"MICHAEL WENDELL HARVEY
+                      
+",39,4/19/81,509,185,BLACK,M,BLACK,BROWN,FULL BEA,DARK BRO,,,1/13/20,BK0000079648 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Fraud - by Mail/phone/newspape'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CHRISTOPHER BERNARD HAWKINS
+                      
+",37,11/27/83,507,170,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM,,,5/28/21,BK0000064946 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"STEVEN TERRELL HAWKINS
+                      
+",38,4/6/83,511,220,BLACK,M,BALD/BAL,BROWN,FUZZ,MEDIUM B,,,5/18/21,BK0000081993 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Receiving Stolen Property', 'Fleeing LEA Vehicle / Resistin', 'Fleeing LEA Vehicle / Resistin', 'Failure to comply with request', 'POSS OF MARIJUANA MOTOR VEHICLE', 'Controlled Substance Violation', 'Enhancement of Penalty for Dru', 'Failure to Yield', 'Motor Vehicle Violation - No/E', 'Reckless Driving'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'RIDGELAND COURT', 'RIDGELAND COURT', 'RIDGELAND COURT', 'RIDGELAND COURT', 'CIRCUIT COURT', 'RIDGELAND COURT', 'RIDGELAND COURT', 'RIDGELAND COURT'], 'Bond amount': [2500.0, 5000.0, 0.0, 0.0, 0.0, 0.0, 2500.0, 0.0, 0.0, 0.0]}"
+"JARVIS KENDAL HAYNES
+                      
+",30,3/22/91,601,160,BLACK,M,BROWN,BROWN,FULL BEA,MEDIUM B,,,7/24/20,BK0000080363 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JOHN WILLIE HENDERSON
+                      
+",47,8/31/73,600,230,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,11/30/18,BK0000076132 - 001,FBI,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"MALCOLM WARREN STEWART HENDERSON
+                      
+",23,5/6/98,509,240,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,6/7/21,SO21007821,6/7/21,BK0000080968 - 002,MADISON SO,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'Conspiracy'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0]}"
+"MAROLEDALLE  HENDERSON
+                      
+",43,4/17/77,601,180,BLACK,M,BLACK,BROWN,GOATEE,DARK,,,7/15/20,BK0000017844 - 028,FLORA PD,FALSE,0,0,"{'Description': ['No Seatbelt', 'Failure of Owner or Operator o', 'Motor Vehicle:failure to stop', 'Controlled Substance Violation', 'DUI - First Offense DUI', 'Fleeing LEA Vehicle / Resistin', 'Driving with Suspended/revoked', 'Contempt of Court-Municipal Co', 'Simple Assault-Bodily Injury'], 'Court': ['FLORA COURT', 'FLORA COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'FLORA COURT', 'FLORA COURT', 'FLORA COURT', 'FLORA COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"BRETT  HICKMAN
+                      
+",27,9/1/93,507,179,AMERICAN,M,BLACK,BROWN,MUSTACHE,MEDIUM B,,,8/1/19,BK0000078207 - 001,CHOCTAW SO,FALSE,0,0,"{'Description': ['Murder'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CAMERON LANTZ HICKMAN
+                      
+",33,2/25/88,506,225,AMERICAN,M,BLACK,BROWN,FUZZ,LIGHT,,,8/20/19,BK0000045808 - 004,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"FREDRICK OMAR HICKS
+                      
+",49,10/5/71,600,245,BLACK,M,BLACK,HAZEL,FULL BEA,MEDIUM B,5/7/21,SO21006041,5/7/21,BK0000013635 - 006,MADISON SO,FALSE,0,0,"{'Description': ['Receiving Stolen Property', 'Controlled Substance Violation'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"JOHNNIE JDARIUS HICKS
+                      
+",21,6/8/99,510,180,BLACK,M,BLACK,BROWN,CLEAN SH,DARK BRO,,,3/1/21,BK0000080052 - 002,FBI,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JONATHAN JOSE HIGHTOWER
+                      
+",26,2/23/95,511,250,BLACK,M,BROWN,BROWN,UNSHAVEN,MEDIUM B,,,7/22/20,BK0000080647 - 001,MADISON PD,FALSE,0,0,"{'Description': ['Burglary; All but Dwelling', 'Burglary - All but Dwelling', 'Burglary; All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Fradulent Use of Identificatio', 'Fradulent Use of Identificatio', 'Fradulent Use of Identificatio', 'Fradulent Use of Identificatio'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [5000.0, 5000.0, 5000.0, 5000.0, 5000.0, 5000.0, 5000.0, 5000.0, 5000.0, 5000.0]}"
+"CEDRIC DEMON HILL
+                      
+",41,2/17/80,508,200,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,5/24/21,BK0000076989 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"PERRY LAMONT HINKLE
+                      
+",39,6/1/81,604,205,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,7/27/20,BK0000076089 - 003,RIDGELAND PD,FALSE,0,0,"{'Description': ['Controlled Substance Violation', 'Felon Carrying Concealed Weapo', 'Contempt of Court for Failure', 'Taking Away of a Motor Vehicle', 'Larceny - Petit'], 'Court': ['RIDGELAND COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'RIDGELAND COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0]}"
+"DANIEL WADE HOLLER
+                      
+",34,3/29/86,510,206,WHITE,M,BALD/BAL,HAZEL,UNSHAVEN,LIGHT,,,1/12/21,BK0000081421 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JEROLD ALLEN HOLLOWELL
+                      
+",39,9/19/81,509,180,WHITE,M,BROWN,BLUE,FULL BEA,OLIVE,,,6/7/21,BK0000030675 - 006,MDOC,FALSE,0,0,"{'Description': ['Contempt of Court for Failure'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"DARRELL JAVIER MARTISE HOLMES
+                      
+",21,2/18/00,508,165,BLACK,M,BLACK,BROWN,MUSTACHE,DARK BRO,,COURT,5/17/21,BK0000080345 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Fleeing LEA Vehicle / Resistin'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"ROBERT ANDREW HORN
+                      
+",33,9/27/87,600,170,WHITE,M,BLONDE,GREEN,UNSHAVEN,LIGHT,,,3/26/21,BK0000040380 - 004,OTHER AGENCY/OVERNIGHT,FALSE,0,0,"{'Description': ['Controlled/counterfeit Substan', 'Controlled/counterfeit Substan', 'C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [1500.0, 1500.0, 2000.0]}"
+"CHRISTOPHER WAYNE HORNE
+                      
+",37,9/24/83,509,150,WHITE,M,BLONDE,BLUE,UNSHAVEN,OLIVE,3/16/21,SO21003508,3/16/21,BK0000075544 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Controlled Substance Violation', 'Foreign Warrant;Fugitive;Holdi'], 'Court': ['CIRCUIT COURT', 'OTHER COUR COURT'], 'Bond amount': [0.0, 0.0]}"
+"JACQUIS LASHAWN HOUSTON
+                      
+",24,10/21/96,511,240,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,,,6/8/21,BK0000082104 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ANTONIO RASHAD HOWARD
+                      
+",30,1/18/91,509,155,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM B,3/18/21,SO21003608,6/3/21,BK0000063496 - 006,MADISON SO,FALSE,0,0,"{'Description': ['Enhancement of Penalty for Dru', 'Trafficking in Controlled Subs', 'Motor Vehicle:failure to stop', 'Controlled Substance Violation'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0]}"
+"KELVIN WILLIAM HUBBARD
+                      
+",30,10/26/90,510,150,BLACK,M,BLACK,BROWN,MUSTACHE,BLACK,,,6/12/21,BK0000082124 - 001,MADISON PD,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['MADISON COURT'], 'Bond amount': [0.0]}"
+"MONROE LAKA HUGHES
+                      
+",42,10/8/78,508,220,BLACK,M,BLACK,BROWN,FULL BEA,LIGHT BR,,,4/4/18,BK0000074589 - 001,DEA,FALSE,0,0,"{'Description': ['Conspiracy', 'Controlled Substance Violation'], 'Court': ['FEDERAL COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0]}"
+"KIRK LOGAN INGLE
+                      
+",27,5/4/94,511,170,WHITE,M,BLACK,HAZEL,FULL BEA,LIGHT,,,5/26/21,BK0000081498 - 002,MADISON PD,FALSE,0,0,"{'Description': ['Fleeing LEA Vehicle / Resistin', 'Aggravated Assault', 'Controlled Substance Violation'], 'Court': ['MADISON COURT', 'MADISON COURT', 'MADISON COURT'], 'Bond amount': [0.0, 0.0, 0.0]}"
+"RYAN CHRISTOPHER IVEY
+                      
+",31,4/3/90,508,135,WHITE,M,BROWN,BROWN,GOATEE,OLIVE,,,5/5/21,BK0000058538 - 010,OTHER AGENCY/OVERNIGHT,FALSE,0,0,"{'Description': ['Probation Violation'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"JERRELL LEASHAUN JACKSON
+                      
+",33,4/21/87,510,150,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM,,,7/18/19,BK0000078063 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Sexual Battery', 'Sexual Battery', 'Human Trafficking', 'Sexual Battery', 'Conspiracy'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0]}"
+"MICHAEL TYRONE JACKSON
+                      
+",43,9/30/77,601,265,BLACK,M,BLACK,BROWN,SIDEBURN,DARK,,,2/3/21,BK0000081520 - 001,ATF,FALSE,0,0,"{'Description': ['Conspiracy', 'Controlled Substance Violation', 'Controlled Substance Violation'], 'Court': ['FEDERAL COURT', 'FEDERAL COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0, 0.0]}"
+"ALFREDRIC ANTWAIN JAMES
+                      
+",36,9/25/84,509,210,BLACK,M,BLACK,BROWN,FULL BEA,DARK BRO,,,6/11/21,BK0000081626 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"WILLIE LEE JAMES
+                      
+",32,10/7/88,601,170,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,,,5/27/21,BK0000068486 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"RODERICK TERRELL JEEMS
+                      
+",35,9/15/85,600,250,BLACK,M,BLACK,BROWN,FULL BEA,DARK,,,4/22/21,BK0000057236 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"SHERMAN GERMON JENKINS
+                      
+",38,4/11/82,600,220,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,,COURT,1/11/21,BK0000077104 - 004,MADISON SO,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS', 'Conspiracy', 'Trafficking in Controlled Subs', 'C/S SELL, TRADE, BARTER DRUGS', 'Controlled Substance Violation'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0]}"
+"RICKY DEWYANE JILES
+                      
+",41,4/23/79,508,160,BLACK,M,BLACK,BROWN,GOATEE,LIGHT BR,,,3/18/21,BK0000081687 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JORDAN DELANE JIM
+                      
+",31,4/21/89,510,200,AMERICAN,M,BLACK,BROWN,CLEAN SH,LIGHT,,,4/19/21,BK0000056140 - 005,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"VANDEL KEITH JIM
+                      
+",52,4/8/68,507,170,AMERICAN,M,BALD/BAL,BROWN,FUZZ,RUDDY,,,12/23/19,BK0000072022 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"MYRON KEITH JOE
+                      
+",37,3/13/84,510,240,AMERICAN,M,BLACK,BROWN,CLEAN SH,OLIVE,,,10/30/19,BK0000077205 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"BRANDON MALIK JOHNSON
+                      
+",23,5/17/98,509,220,BLACK,M,BLACK,BLACK,THIN BEA,MEDIUM B,,,6/2/21,BK0000082072 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CHEY DEON JOHNSON
+                      
+",48,2/10/73,507,154,BLACK,M,BLACK,BROWN,FULL BEA,DARK BRO,,,11/28/18,BK0000056474 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"HOWARD  JOHNSON
+                      
+",62,1/29/59,510,140,WHITE,M,BLONDE,BLUE,FUZZ,LIGHT,,COURT,6/1/21,BK0000079613 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Controlled Substance Violation', 'C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"JEFFERY QUIETRELL JOHNSON
+                      
+",41,2/26/80,511,180,BLACK,M,BLACK,BROWN,FULL BEA,DARK BRO,3/18/21,SO21003604,3/19/21,BK0000047863 - 005,MADISON SO,FALSE,0,0,"{'Description': ['Motor Vehicle; failure to stop', 'Failure to Register Under Sex', 'C/S SELL, TRADE, BARTER DRUGS', 'Tampering', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'Conspiracy'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 100000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"ZANDER JOSE JOHNSON
+                      
+",36,12/5/84,601,150,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,3/15/21,BK0000050006 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"DAVID  JONES
+                      
+",31,12/4/89,507,160,BLACK,M,BLACK,BROWN,FULL BEA,DARK BRO,5/4/21,SO21005854,5/4/21,BK0000066930 - 005,MADISON SO,FALSE,0,0,"{'Description': ['Taking Away of a Motor Vehicle', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [30000.0, 15000.0, 15000.0]}"
+"DESMOND LAMICHAEL JONES
+                      
+",29,4/1/91,505,130,BLACK,M,BLACK,BROWN,CLEAN SH,BLACK,,,7/8/20,BK0000080578 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Burglary; Inhabited Dwelling H', 'Conspiracy', 'Kidnaping', 'Armed Carjacking/Attempted Arm', 'Robbery - Armed', 'Taking Away of a Motor Vehicle'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [75000.0, 75000.0, 75000.0, 75000.0, 75000.0, 75000.0]}"
+"JARRED LERRIN JONES
+                      
+",26,8/24/94,510,210,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM,6/1/21,SO21007462,6/1/21,BK0000063958 - 007,MADISON SO,FALSE,0,0,"{'Description': ['Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"JAVARIUS DEONTAY JONES
+                      
+",19,4/21/01,505,120,BLACK,M,BLACK,BROWN,CLEAN SH,LIGHT BR,,,11/16/20,BK0000081235 - 001,FBI,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JOHNNY LEE JONES
+                      
+",31,5/8/89,511,180,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM B,,,11/13/20,BK0000050606 - 002,MADISON PD,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo', 'Controlled Substance Violation'], 'Court': ['CIRCUIT COURT', 'MADISON COURT'], 'Bond amount': [110000.0, 0.0]}"
+"AUBREY MAURICE JORDAN
+                      
+",29,11/23/91,505,160,BLACK,M,BLACK,BROWN,CLEAN SH,MEDIUM B,,,6/27/18,BK0000075114 - 001,DEA,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ENRI  JUAN-GASPAR
+                      
+",32,5/30/88,411,125,HISPANIC,M,BLACK,BROWN,GOATEE,LIGHT,,,9/3/20,BK0000080859 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Touching Child for Lustful Pur'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [100000.0]}"
+"KAREN LYNNE KELLEY
+                      
+",65,2/28/56,506,170,WHITE,F,GRAY/GRA,BROWN,NOT APPL,LIGHT,,COURT,6/1/21,BK0000079614 - 002,MADISON SO,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS', 'Controlled Substance Violation'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"REGINALD D'MOND KELLY
+                      
+",43,12/21/77,510,130,BLACK,M,BLACK,BROWN,THIN BEA,DARK BRO,,,7/15/20,BK0000080601 - 001,ATF,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo', 'C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['FEDERAL COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0]}"
+"DERRICK MONTARIO KEYS
+                      
+",34,4/21/87,511,205,BLACK,M,BLACK,BROWN,MUSTACHE,MEDIUM B,,,5/24/21,BK0000082035 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"DOMONIQUE DONTE KING
+                      
+",29,10/12/91,601,165,BLACK,M,BLACK,BROWN,FULL BEA,DARK BRO,,,7/22/20,BK0000080648 - 001,MADISON PD,FALSE,0,0,"{'Description': ['Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [10000.0, 10000.0, 10000.0, 50000.0]}"
+"MALCOLM DANIEL KIRKSEY
+                      
+",38,5/19/82,510,240,WHITE,M,BROWN,BROWN,GOATEE,FAIR,,,5/16/21,BK0000081985 - 001,PARK RANGER,FALSE,0,0,"{'Description': ['Motor Vehicle:failure to stop', 'DUI - Third or Subsequent Conv', 'Aggravated Assault', 'Speeding on Local Highways', 'Motor Vehicle Violation - No/E', 'General Violations'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'FEDERAL COURT', 'FEDERAL COURT', 'FEDERAL COURT'], 'Bond amount': [5000.0, 5000.0, 10000.0, 0.0, 0.0, 0.0]}"
+"THOMAS JOHN KOZEL
+                      
+",43,4/10/78,507,165,WHITE,M,BLACK,HAZEL,GOATEE,OLIVE,,COURT,5/28/21,BK0000076687 - 004,MADISON SO,FALSE,0,0,"{'Description': ['Controlled Substance Violation'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [5000.0]}"
+"JAY COLE KUHN
+                      
+",28,2/23/93,602,180,WHITE,M,BALD/BAL,BLUE,MUSTACHE,LIGHT,4/20/21,SO21005137,4/20/21,BK0000081862 - 001,MADISON SO,FALSE,0,0,"{'Description': ['Conspiracy', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [6000.0, 6000.0, 8000.0]}"
+"CEDRIC  KYLE
+                      
+",48,3/18/73,511,160,BLACK,M,BLACK,BROWN,CLEAN SH,LIGHT,,,2/23/21,BK0000081594 - 001,FBI,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"TYREIK DARNELL LACKEY
+                      
+",24,1/2/97,506,150,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM B,,,4/20/21,BK0000075973 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JUSTIN ELLISON LANCASTER
+                      
+",42,9/8/78,510,170,WHITE,M,BROWN,BLUE,UNSHAVEN,FAIR,,COURT,4/6/21,BK0000018834 - 006,MADISON SO,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"TIAUNA SHERI LANDERS
+                      
+",41,8/8/79,504,250,BLACK,F,BLACK,BROWN,NOT APPL,LIGHT BR,4/30/21,SO21005661,4/30/21,BK0000079069 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Receiving Stolen Property'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"DEMETRIUS LATREAL LEE
+                      
+",16,4/19/05,600,150,BLACK,M,BLACK,BROWN,NOT APPL,DARK,5/3/21,SO21005791,5/3/21,BK0000081926 - 001,MADISON SO,FALSE,0,0,"{'Description': ['Aggravated Assault'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [50000.0]}"
+"GARY BRIAN LEE
+                      
+",49,7/17/71,510,200,WHITE,M,BLONDE,BROWN,GOATEE,LIGHT,,,6/4/21,BK0000082082 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"OBIE OMARION LEE
+                      
+",16,5/18/04,511,130,BLACK,M,BLACK,BROWN,NOT APPL,MEDIUM B,5/3/21,SO21005791,5/3/21,BK0000081925 - 001,MADISON SO,FALSE,0,0,"{'Description': ['Aggravated Assault'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [50000.0]}"
+"JALMAR RIVALDO LEVERON-PACHECO
+                      
+",21,10/14/99,504,150,HISPANIC,M,BLACK,BROWN,MUSTACHE,MEDIUM B,,,4/12/21,BK0000081724 - 002,ICE,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"DERRICK DEWAYNE LEWIS
+                      
+",42,3/12/79,507,200,BLACK,M,BLACK,BROWN,FUZZ,MEDIUM B,,,1/27/21,BK0000081487 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"KEVIN LORENZO LEWIS
+                      
+",16,9/21/04,508,135,BLACK,M,BLACK,BROWN,CLEAN SH,MEDIUM B,5/25/21,SO21007122,5/25/21,BK0000080759 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Taking Away of a Motor Vehicle', 'Receiving Stolen Property'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [4000.0, 4000.0, 4000.0, 4000.0, 4000.0]}"
+"MICHEAL JEROME LEWIS
+                      
+",36,2/6/85,510,203,BLACK,M,BLACK,BROWN,FUZZ,LIGHT,,COURT,4/5/21,BK0000030430 - 005,MADISON SO,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'Conspiracy'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0]}"
+"PETER JERRELL LIDDELL
+                      
+",34,8/8/86,507,150,BLACK,M,BLACK,BROWN,UNSHAVEN,DARK BRO,,,11/19/19,BK0000079243 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"TIMOTHY LAKENDRICK LIDDELL
+                      
+",26,12/16/94,506,245,BLACK,M,BLACK,BROWN,FULL BEA,DARK BRO,,,1/28/20,BK0000065812 - 007,US MARSHAL,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"HARRISON NEAL LITTLE
+                      
+",29,4/9/91,601,185,WHITE,M,BROWN,BROWN,GOATEE,LIGHT,,,6/10/20,BK0000080452 - 001,MADISON PD,FALSE,0,0,"{'Description': ['DUI-Mutilation/Disfigurement/D', 'Leaving The Scene Of An Accide'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"KING PHILLIP LITTLETON
+                      
+",66,8/11/54,507,198,BLACK,M,BLACK,BROWN,NOT APPL,DARK,6/1/21,SO21007468,6/1/21,BK0000062840 - 003,MADISON SO,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"JEREMY DEVONTE LLOYD
+                      
+",28,3/2/93,511,155,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,12/3/20,BK0000081308 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"KENNETH  LOFTON
+                      
+",43,11/17/77,508,170,BLACK,M,BLACK,BROWN,CLEAN SH,LIGHT BR,,,2/23/21,BK0000019952 - 004,FBI,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"HERMAN DEMOND LONGINO
+                      
+",46,2/3/75,505,156,BLACK,M,BLACK,BROWN,CLEAN SH,DARK,,,6/8/21,BK0000062836 - 005,RIDGELAND PD,FALSE,0,0,"{'Description': ['Shoplifting'], 'Court': ['RIDGELAND COURT'], 'Bond amount': [0.0]}"
+"CORNELIUS TERRELL LUCKETT
+                      
+",35,11/27/85,604,222,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM B,,,2/12/21,BK0000021598 - 009,RIDGELAND PD,FALSE,0,0,"{'Description': ['Trafficking in Controlled Subs', 'Trafficking in Controlled Subs', 'Controlled Substance Violation', 'Felon Carrying Concealed Weapo', 'Parole Violation'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [25000.0, 25000.0, 25000.0, 25000.0, 0.0]}"
+"DEON CORTEZ LUCKETT
+                      
+",31,10/29/89,600,183,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,5/12/21,BK0000073197 - 005,CANTON PD,FALSE,0,0,"{'Description': ['Shoplifting', 'Contempt of Court-Municipal Co', 'Contempt of Court-Municipal Co'], 'Court': ['CANTON COURT', 'CANTON COURT', 'CANTON COURT'], 'Bond amount': [0.0, 0.0, 0.0]}"
+"INGRED DYSHUN LUCKETT
+                      
+",27,11/24/93,504,120,BLACK,F,BLACK,BROWN,NOT APPL,MEDIUM,9/4/20,SO20010597,9/4/20,BK0000052228 - 007,MADISON SO,FALSE,0,0,"{'Description': ['Capital Murder', 'Taking Away of a Motor Vehicle', 'Robbery - Armed'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0]}"
+"MARCUS LATEZO LUCKETT
+                      
+",15,8/19/05,509,172,BLACK,M,BLACK,BROWN,CLEAN SH,DARK,,,4/29/21,BK0000081904 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Murder'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"ERIC RAHIM MACK
+                      
+",28,4/7/93,509,185,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,4/15/21,SO21004931,4/15/21,BK0000077841 - 005,MADISON SO,FALSE,0,0,"{'Description': ['Voyeurism (Peeping Tom)'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"WILLIE LEE MACK
+                      
+",38,1/5/83,505,130,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM,,,1/20/21,BK0000065009 - 004,RIDGELAND PD,FALSE,0,0,"{'Description': ['Contempt of Court for Failure', 'Burglary - All but Dwelling'], 'Court': ['RIDGELAND COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 10000.0]}"
+"JOSE  MALDONADO-ROSA
+                      
+",27,5/25/93,506,150,HISPANIC,M,BROWN,BROWN,GOATEE,LIGHT,,,9/8/20,BK0000080885 - 001,ICE,FALSE,0,0,"{'Description': ['18USC1325 ILLEGAL ENTRY-ALIEN'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JAMURIC DARANTE MALLARD
+                      
+",37,7/23/83,507,150,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM,,,6/8/21,BK0000071093 - 004,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"DECOTA DEE MANGRUM
+                      
+",21,5/19/99,600,142,WHITE,M,BLONDE,BLUE,FUZZ,LIGHT,,COURT,4/5/21,BK0000081297 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Conspiracy', 'C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"ROBERT  MARTIN
+                      
+",22,12/22/98,508,190,AMERICAN,M,BLACK,BROWN,MUSTACHE,LIGHT,,,8/23/19,BK0000078409 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Murder'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"MICHEAL JEROME MAYES
+                      
+",35,11/21/85,509,200,BLACK,M,BLACK,BROWN,FULL BEA,DARK BRO,,,10/7/20,BK0000033461 - 003,FBI,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CHADDIS DEMOND MCAFEE
+                      
+",38,12/19/82,604,240,BLACK,M,BLACK,BROWN,THIN BEA,MEDIUM B,,,6/7/18,BK0000074980 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"TERRENCE NEQUAIL MCCHRISTIAN
+                      
+",31,9/24/89,510,191,BLACK,M,BLACK,BROWN,THIN BEA,DARK,,,9/17/20,BK0000080937 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Sexual Battery', 'Aggravated Assault', 'Fleeing LEA Vehicle / Resistin', 'Failure to comply with request', 'Reckless Driving', 'Fleeing LEA Vehicle / Resistin', 'Contempt of Court for Failure'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'RIDGELAND COURT', 'RIDGELAND COURT', 'RIDGELAND COURT', 'RIDGELAND COURT'], 'Bond amount': [25000.0, 25000.0, 25000.0, 0.0, 0.0, 0.0, 0.0]}"
+"JOHN BARRY MCCRADY
+                      
+",50,11/10/70,509,160,WHITE,M,BROWN,GREEN,GOATEE,FAIR,3/10/21,SO21003170,3/11/21,BK0000222238 - 009,MADISON SO,FALSE,0,0,"{'Description': ['Taking Away of a Motor Vehicle', 'Conspiracy'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [50000.0, 50000.0]}"
+"ACRINDAL RODRIQUEZ MCCRAY
+                      
+",42,4/9/78,601,188,BLACK,M,BLACK,BROWN,FUZZ,MEDIUM B,,,8/20/20,BK0000080782 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Burglary - All but Dwelling', 'POSS OF PARAPHERNALIA', 'False Information or Identific'], 'Court': ['CIRCUIT COURT', 'RIDGELAND COURT', 'RIDGELAND COURT'], 'Bond amount': [10000.0, 0.0, 0.0]}"
+"MARQUIS CORNELL MCCROY
+                      
+",39,12/25/81,508,160,BLACK,M,BALD,BROWN,GOATEE,MEDIUM,,WARRANT,5/21/21,BK0000018211 - 008,FBI,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JALANE JEWAN MCDANIEL-JOHNSON
+                      
+",20,11/8/00,600,170,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,4/20/21,BK0000081859 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['False Pretenses', 'False Information or Identific'], 'Court': ['RIDGELAND COURT', 'RIDGELAND COURT'], 'Bond amount': [0.0, 0.0]}"
+"IRIS SHURNELL MEEKS
+                      
+",26,11/2/94,510,180,BLACK,M,BLACK,BROWN,CLEAN SH,MEDIUM B,,,4/18/21,BK0000081852 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['False Pretenses', 'Foreign Warrant;Fugitive;Holdi'], 'Court': ['RIDGELAND COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"MONTEL DEQUEZ MEEKS
+                      
+",21,9/24/99,508,190,BLACK,M,BLACK,BLACK,GOATEE,DARK BRO,3/29/21,SO21004130,3/29/21,BK0000075740 - 005,MADISON SO,FALSE,0,0,"{'Description': ['Enhancement of Penalty for Dru'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"BRANDON DESHANTA MILLER
+                      
+",34,7/19/86,600,168,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM B,,,6/27/18,BK0000075113 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"KNEEFE NACCACHE MILLER
+                      
+",22,1/11/99,507,165,BLACK,M,BLACK,BROWN,THIN BEA,MEDIUM B,1/31/20,SO20001543,6/4/21,BK0000072630 - 005,MADISON SO,FALSE,0,0,"{'Description': ['Kidnaping', 'Robbery - Armed', 'Armed Carjacking/Attempted Arm', 'Aggravated Assault', 'Conspiracy', 'Conspiracy'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"SAMUEL HUGH MILLER
+                      
+",34,7/20/86,602,230,WHITE,M,BLONDE,BLUE,GOATEE,MEDIUM,6/8/21,SO21007887,6/8/21,BK0000064673 - 011,MADISON SO,FALSE,0,0,"{'Description': ['Controlled Substance Violation', 'Receiving Stolen Property'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"JESUS CHRISTIAN MIRANDA-ALCANTAR
+                      
+",33,4/24/87,507,150,HISPANIC,M,BLACK,BROWN,FUZZ,OLIVE,,,11/30/20,BK0000080938 - 002,ICE,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"THOMAS JEROME MITCHELL
+                      
+",35,9/9/85,505,195,BLACK,M,GRAY/GRA,GRAY,FULL BEA,DARK,,,3/16/20,BK0000080090 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ALTON TERRELL MONROE
+                      
+",43,10/1/77,508,145,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,11/28/18,BK0000070873 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JOHNNY JEROME MORGAN
+                      
+",40,11/5/80,511,190,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,,,5/21/19,BK0000077438 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"MITCHELL DEON NETTLES
+                      
+",39,9/29/81,508,157,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,6/11/21,SO21008050,6/11/21,BK0000014252 - 007,MADISON SO,FALSE,0,2272,"{'Description': ['Descertion or non -support of', 'Speeding on State Highway', 'Motor Vehicle Violation - No/E', 'Speeding on State Highway', 'Motor Vehicle Violation - No/E', 'Failure of Owner or Operator o', 'Motor Vehicle Violation - No/E', 'Failure of Owner or Operator o'], 'Court': ['CHANCERY COURT', 'JUSTICE COURT', 'JUSTICE COURT', 'JUSTICE COURT', 'JUSTICE COURT', 'JUSTICE COURT', 'JUSTICE COURT', 'JUSTICE COURT'], 'Bond amount': [0.0, 189.0, 323.0, 189.0, 323.0, 412.5, 323.0, 512.5]}"
+"TERRANCE SANCHEZ NORMAN
+                      
+",38,7/9/82,508,165,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,COURT,4/5/21,BK0000021876 - 014,MADISON SO,FALSE,0,0,"{'Description': ['Failure to Register Under Sex', 'Parole Violation'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"EDUARDO  NUNEZ-TORRES
+                      
+",24,2/10/97,505,146,HISPANIC,M,BLACK,BROWN,THIN BEA,RUDDY,,,8/3/18,BK0000075308 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CHARLES LEE PARKER
+                      
+",63,10/16/57,602,205,BLACK,M,BALD,BROWN,MUSTACHE,LIGHT BR,,,5/5/21,BK0000034590 - 005,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JAMES ELLIS PARNELL
+                      
+",31,7/16/89,508,200,WHITE,M,BROWN,GREEN,UNSHAVEN,LIGHT,,,1/30/21,BK0000081496 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Prostitution;Procuring Females', 'Fleeing LEA Vehicle / Resistin', 'Felon Carrying Concealed Weapo', 'Controlled Substance Violation', 'Possession of Stolen Firearm'], 'Court': ['CIRCUIT COURT', 'RIDGELAND COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [5000.0, 0.0, 5000.0, 5000.0, 5000.0]}"
+"KATHRYN CAMBRE PEACOCK
+                      
+",58,8/13/62,508,170,WHITE,F,GRAY/GRA,BLUE,NOT APPL,OLIVE,5/26/21,SO21007208,5/27/21,BK0000081061 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Controlled Substance Violation', 'Controlled Substance Violation', 'C/S SELL, TRADE, BARTER DRUGS', 'Introduction Of Contraband'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [50000.0, 0.0, 25000.0, 25000.0]}"
+"JAMES NELSON PEEPLES
+                      
+",34,4/14/85,505,140,BLACK,M,BALD/BAL,BROWN,FULL BEA,MEDIUM B,,,1/29/20,BK0000079774 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Enhancement of Penalty for Dru'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"NELSON WILFREDO PEREZ-CAMPOS
+                      
+",19,5/5/01,507,140,HISPANIC,M,BLACK,BLACK,NOT APPL,LIGHT BR,,,4/8/21,BK0000081772 - 002,ICE,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"TRAMAINE JADELL PETTAWAY
+                      
+",31,6/16/88,600,175,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,3/17/20,BK0000074273 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy', 'Robbery - Armed', 'Fleeing LEA Vehicle / Resistin', 'Felon Carrying Concealed Weapo', 'Robbery - Armed', 'Robbery - Armed', 'Aggravated Assault'], 'Court': ['FEDERAL COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 110000.0, 110000.0, 110000.0, 110000.0, 110000.0, 110000.0]}"
+"MICHAEL ANTHONY PHILLIPS
+                      
+",45,12/4/75,509,185,BLACK,M,BLACK,BLACK,THIN BEA,MEDIUM B,,,11/13/17,BK0000073825 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"THOMAS EUGENE PHILLIPS
+                      
+",33,3/16/88,508,155,WHITE,M,BROWN,GREEN,THIN BEA,LIGHT,,,5/4/21,BK0000040451 - 004,RIDGELAND PD,FALSE,0,0,"{'Description': ['Contempt of Court-Municipal Co', 'Controlled Substance Violation', 'POSS OF PARAPHERNALIA', 'Foreign Warrant;Fugitive;Holdi', 'Failure of Owner or Operator o', 'Speeding on Local Highways', 'Motor Vehicle Violation - No/E'], 'Court': ['RIDGELAND COURT', 'RIDGELAND COURT', 'RIDGELAND COURT', 'OTHER COUR COURT', 'JUSTICE COURT', 'JUSTICE COURT', 'JUSTICE COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"ANTHONY LAMAR PICKETT
+                      
+",51,3/20/70,508,200,WHITE,M,BROWN,GREEN,FULL BEA,FAIR,,COURT,4/5/21,BK0000019701 - 007,MADISON SO,FALSE,0,0,"{'Description': ['Embezzlement - Officers/truste'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"KATHRYN LEEANN POLLOCK
+                      
+",27,9/16/93,506,130,WHITE,F,BLONDE,BLUE,NOT APPL,LIGHT,5/28/21,SO21007289,5/28/21,BK0000062877 - 006,MADISON SO,FALSE,0,0,"{'Description': ['Contempt of Court for Failure'], 'Court': ['CHANCERY COURT'], 'Bond amount': [0.0]}"
+"ROBERTO  POP-SUB
+                      
+",39,6/28/81,502,150,HISPANIC,M,BLACK,BROWN,MUSTACHE,MEDIUM B,,,4/12/21,BK0000081722 - 002,ICE,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"DWIGHT WESLEY POWELL
+                      
+",58,9/10/62,603,218,BLACK,M,GRAY/GRA,BROWN,GOATEE,DARK BRO,,,11/30/18,BK0000076140 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"SYLVESTER DONTA PUGH
+                      
+",38,3/10/83,602,340,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,11/30/18,BK0000076131 - 001,FBI,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ANKIT  PURI
+                      
+",37,2/10/84,508,119,OTHER,M,BLACK,BROWN,UNSHAVEN,MEDIUM,,,9/10/20,BK0000075064 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"PAULINO RUSBIN RAMOS-ROMORO
+                      
+",19,12/9/01,505,140,HISPANIC,M,BLACK,BROWN,CLEAN SH,RUDDY,,,7/21/20,BK0000080644 - 001,CANTON PD,FALSE,0,0,"{'Description': ['Sexual Battery', 'Kidnaping', 'Sexual Battery'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0]}"
+"JAKOBI LEWIS RANSBURGH
+                      
+",22,5/6/98,502,189,BLACK,M,BLACK,BROWN,FU MANCH,DARK,,,7/20/20,BK0000080629 - 001,FBI,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['FEDERAL COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0]}"
+"COURTNEY DONTAY RAWLS
+                      
+",41,1/25/80,510,165,BLACK,M,BLACK,BROWN,FULL BEA,DARK BRO,11/16/20,SO20014453,5/17/21,BK0000080131 - 003,MADISON SO,FALSE,0,0,"{'Description': ['Controlled Substance Violation'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"ROY LEE RAY
+                      
+",20,4/25/00,600,215,WHITE,M,BLONDE,BLUE,FUZZ,OLIVE,,,5/8/20,BK0000080332 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"KELVIN DESHUN REDD
+                      
+",45,12/16/75,507,202,BLACK,M,BLACK,BROWN,MUSTACHE,DARK BRO,,,1/29/21,BK0000060439 - 005,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ANTONNE MARQUETTE REED
+                      
+",45,5/29/75,602,215,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,,,4/29/21,BK0000033462 - 002,FLORA PD,FALSE,0,0,"{'Description': ['Fleeing LEA Vehicle / Resistin', 'Careless Driving', 'Reckless Driving', 'C/S SELL, TRADE, BARTER DRUGS', 'Trafficking in Controlled Subs', 'Trafficking in Controlled Subs', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['CIRCUIT COURT', 'FLORA COURT', 'FLORA COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'FLORA COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [20000.0, 0.0, 0.0, 20000.0, 20000.0, 0.0, 20000.0, 20000.0]}"
+"KENDRICK DEMOND REED
+                      
+",41,2/24/80,506,150,BLACK,M,BLACK,BROWN,FULL BEA,DARK,,,11/6/20,BK0000018429 - 004,RIDGELAND PD,FALSE,0,0,"{'Description': ['Shoplifting', 'Shoplifting'], 'Court': ['RIDGELAND COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 2500.0]}"
+"TIMOTHY BRYAN REESE
+                      
+",34,2/23/87,600,262,WHITE,M,BALD/BAL,BLUE,UNSHAVEN,OLIVE,,,5/19/21,BK0000082000 - 001,FBI,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"AARON MATTHEW RENTFROW
+                      
+",40,6/12/80,511,220,WHITE,M,BALD,BLUE,FULL BEA,LIGHT,,,1/15/21,BK0000081438 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JOHNATHAN  REYNOLDS
+                      
+",38,8/18/82,509,175,WHITE,M,BLACK,BROWN,FULL BEA,LIGHT,,,2/3/21,BK0000081524 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ERICA MARKESIA RHODES
+                      
+",32,4/12/89,505,120,BLACK,F,BLACK,BROWN,NOT APPL,LIGHT BR,,,5/11/21,BK0000065727 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"DAVID ALLEN RHYNE
+                      
+",39,5/12/81,600,202,WHITE,M,BROWN,BROWN,GOATEE,OLIVE,,,4/13/21,BK0000067871 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"PETER LAMONT RICE
+                      
+",44,4/16/76,602,236,BLACK,M,BLACK,BROWN,UNSHAVEN,MEDIUM B,,,12/30/20,BK0000018782 - 006,FBI,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ROBERT EARL RICHARDSON
+                      
+",56,4/29/65,605,227,BLACK,M,BLACK,BLACK,CLEAN SH,MEDIUM B,,,5/21/21,BK0000070449 - 004,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"PRESTON SEAN RIDDLE
+                      
+",27,4/27/93,506,160,WHITE,M,BROWN,BLUE,FULL BEA,OLIVE,,,4/5/19,BK0000075668 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JEFFREY  RIVERS
+                      
+",38,5/1/82,508,145,BLACK,M,BALD/BAL,BROWN,GOATEE,MEDIUM B,,,2/23/21,BK0000034019 - 002,FBI,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"DANIEL MARTIN ROBERT
+                      
+",44,9/28/76,602,213,BLACK,M,BLACK,BROWN,THIN BEA,MEDIUM B,,,7/3/18,BK0000075145 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy', 'Conspiracy'], 'Court': ['FEDERAL COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0]}"
+"DEVAN ANTONIO TERREL ROBINSON
+                      
+",29,12/27/91,600,176,BLACK,M,BLACK,BROWN,UNSHAVEN,BLACK,,,3/8/21,BK0000081651 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"DOMINICK BERNARD ROBINSON
+                      
+",22,10/5/98,511,135,BLACK,M,BLACK,BROWN,FUZZ,MEDIUM,11/24/20,SO20014887,4/5/21,BK0000080453 - 003,MADISON SO,FALSE,0,0,"{'Description': ['Counterfeit Instrument: Forger', 'Counterfeit Instrument: Forger', 'Counterfeit Instrument: Forger', 'Counterfeit Instrument: Forger'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0]}"
+"RICHAR ALFONSO RODRIQUEZ-GUTIERREZ
+                      
+",32,10/27/88,508,185,HISPANIC,M,BLACK,BROWN,LOWER LI,ALBINO,,,1/29/21,BK0000081494 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"MARQUARIUS ANDREW ROGERS
+                      
+",21,4/23/00,509,180,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM,,,5/13/21,BK0000076235 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"GUILLERMO  ROSALES-HERNANDEZ
+                      
+",26,2/16/95,509,160,HISPANIC,M,BLACK,BROWN,FULL BEA,ALBINO,,,2/14/21,BK0000081579 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Careless Driving', 'DUI - Third or Subsequent Conv'], 'Court': ['RIDGELAND COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 5000.0]}"
+"EDDIE LEE ROSS
+                      
+",32,1/10/89,511,145,BLACK,M,BLACK,BROWN,MUSTACHE,LIGHT BR,,,3/25/21,BK0000080838 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"COLE REID ROWLAND
+                      
+",23,3/8/98,600,170,WHITE,M,BROWN,GREEN,FULL BEA,OLIVE,,,5/31/21,BK0000071083 - 014,MADISON PD,FALSE,0,0,"{'Description': ['Simple Domestic Violence;Simpl', 'Taking Away of a Motor Vehicle'], 'Court': ['MADISON COURT', 'MADISON COURT'], 'Bond amount': [0.0, 0.0]}"
+"RICHARD JAMAY RULE
+                      
+",26,9/13/94,600,180,BLACK,M,BLACK,BROWN,UNSHAVEN,MEDIUM,,,3/25/21,BK0000080441 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"WILLIE LEE SANDERS
+                      
+",50,10/20/70,507,174,BLACK,M,GRAY/GRA,BROWN,CLEAN SH,DARK,1/29/21,SO21001308,1/29/21,BK0000078569 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo', 'Controlled Substance Violation'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"RICKY LEE SCOTT
+                      
+",61,1/27/60,601,190,BLACK,M,BALD/BAL,BROWN,MUSTACHE,LIGHT BR,,,4/26/21,BK0000003717 - 014,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"DERRICK ANTRONE SEALS
+                      
+",40,10/26/80,601,205,BLACK,M,BALD,BROWN,UNSHAVEN,MEDIUM B,,COURT,4/5/21,BK0000077735 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Controlled Substance Violation', 'Conspiracy'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"TERLL  SHELL
+                      
+",40,3/7/81,504,225,BLACK,M,BLACK,BROWN,FUZZ,DARK BRO,,,9/10/20,BK0000080893 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"SCOTTIE LYNN SHIERS
+                      
+",43,10/22/77,600,215,WHITE,M,GRAY/GRA,BROWN,FULL BEA,LIGHT,,,12/18/20,BK0000004848 - 006,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CORDELRO DESEAN SHOULDERS
+                      
+",28,10/5/92,507,165,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM,,,10/8/19,BK0000078893 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Armed Carjacking/Attempted Arm'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ELBERT LEE SILAS
+                      
+",43,1/29/78,602,175,BLACK,M,BLACK,BROWN,FUZZ,DARK BRO,,,3/28/19,BK0000076987 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JAMES LEE SIMMONS
+                      
+",49,10/27/71,507,165,BLACK,M,GRAY/GRA,BROWN,FUZZ,DARK,,,2/23/21,BK0000012866 - 002,FBI,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JAVARIS DANIELL SIMMONS
+                      
+",29,12/12/91,600,160,BLACK,M,BLACK,BROWN,MUSTACHE,DARK BRO,,COURT,9/22/20,BK0000055613 - 012,BRAD HARBOUR,FALSE,0,0,"{'Description': ['DUI - Second Conviction'], 'Court': ['JUSTICE COURT'], 'Bond amount': [0.0]}"
+"LEDRICK ANTWAN SIMMONS
+                      
+",38,6/29/82,509,185,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,1/30/20,BK0000079776 - 001,MADISON PD,FALSE,0,0,"{'Description': ['Prostitution;Procuring Females', 'Motor Vehicle:failure to stop', 'Conspiracy'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0, 0.0]}"
+"TREVOR STERLING SIMMONS
+                      
+",19,7/13/01,511,160,WHITE,M,BROWN,BLUE,UNSHAVEN,FAIR,,,10/28/20,BK0000081134 - 001,MADISON PD,FALSE,0,0,"{'Description': ['Burglary; All but Dwelling', 'Burglary; All but Dwelling', 'Burglary; All but Dwelling', 'Burglary; All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [40000.0, 40000.0, 40000.0, 40000.0, 10000.0, 10000.0, 40000.0]}"
+"JOURNEL DURAUD SIMS
+                      
+",22,3/6/99,603,275,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,3/10/21,SO21003168,3/10/21,BK0000075061 - 003,MADISON SO,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS', 'Conspiracy'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [50000.0, 50000.0]}"
+"TYJERIOUS DAMICHEAL SIMS
+                      
+",20,3/10/01,600,190,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,1/8/21,SO21000295,1/8/21,BK0000081400 - 001,MADISON SO,FALSE,0,0,"{'Description': ['Controlled Substance Violation', 'Failure to comply with request', 'Capital Murder', 'Robbery - Armed', 'Conspiracy', 'Possession of Stolen Firearm', 'Arson - Dwelling'], 'Court': ['JUSTICE COURT', 'JUSTICE COURT', 'CANTON COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 250000.0, 100000.0, 100000.0, 100000.0]}"
+"LOVEPREET  SINGH
+                      
+",27,6/18/93,508,200,OTHER,M,BLACK,BROWN,FULL BEA,RUDDY,,,11/5/20,BK0000081173 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"PARMINDER  SINGH
+                      
+",32,12/19/88,602,170,OTHER,M,BLACK,BLACK,FULL BEA,LIGHT,,,6/12/21,BK0000081996 - 002,MADISON PD,FALSE,0,0,"{'Description': ['Contempt of Court for Failure', 'Simple Domestic Violence;Simpl'], 'Court': ['MADISON COURT', 'MADISON COURT'], 'Bond amount': [0.0, 0.0]}"
+"KEVIN NAPOLEON SINGLETON
+                      
+",43,6/3/77,600,230,BLACK,M,BLACK,BROWN,FULL BEA,DARK BRO,,,3/20/18,BK0000074499 - 001,DEA,FALSE,0,0,"{'Description': ['Controlled Substance Violation', 'Felon Carrying Concealed Weapo', 'Conspiracy'], 'Court': ['FEDERAL COURT', 'FEDERAL COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0, 0.0]}"
+"CHRYSTAL MIESHA SLAUGHTER
+                      
+",33,1/2/88,505,200,BLACK,F,BROWN,BROWN,NOT APPL,LIGHT BR,,,5/26/21,BK0000082038 - 001,US CUSTOMS,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JAMOND DEON SLAUGHTER
+                      
+",28,5/8/92,504,165,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,2/4/21,SO21001637,2/4/21,BK0000080775 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [5000.0]}"
+"AMANDA LOUISE SMITH
+                      
+",38,9/15/82,508,185,WHITE,F,BROWN,BLACK,NOT APPL,LIGHT,6/9/21,SO21007944,6/9/21,BK0000077428 - 006,MADISON SO,FALSE,0,0,"{'Description': ['Alteration, Fraudulent Use or'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"CHARLANDUS CORNELIUS SMITH
+                      
+",32,3/31/88,601,270,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,,,1/13/21,BK0000076445 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CHAUNCEY LENAIL SMITH
+                      
+",43,8/1/77,602,210,BLACK,M,BLACK,BROWN,THIN BEA,MEDIUM B,2/8/18,SO18001812,2/24/20,BK0000006237 - 010,MADISON SO,FALSE,0,0,"{'Description': ['Capital Murder'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"FORGARY KENTREL SMITH
+                      
+",29,6/14/91,507,206,BLACK,M,BLACK,BROWN,FULL BEA,LIGHT BR,3/15/21,SO21003485,3/15/21,BK0000081675 - 001,MADISON SO,FALSE,0,0,"{'Description': ['Enhancement of Penalty for Dru', 'Felon Carrying Concealed Weapo', 'Parole Violation'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [25000.0, 25000.0, 0.0]}"
+"HAROLD ALEXANDER SMITH
+                      
+",43,10/2/77,603,240,WHITE,M,BLACK,BROWN,UNSHAVEN,FAIR,3/24/21,SO21003896,3/24/21,BK0000035971 - 004,MADISON SO,FALSE,0,0,"{'Description': ['Controlled Substance Violation', 'Shoplifting', 'Fleeing LEA Vehicle / Resistin'], 'Court': ['CIRCUIT COURT', 'MADISON COURT', 'MADISON COURT'], 'Bond amount': [0.0, 0.0, 0.0]}"
+"JOSEPH GAGE SMITH
+                      
+",19,7/21/01,602,150,WHITE,M,BLONDE,BLACK,GOATEE,LIGHT,,,3/5/21,BK0000080829 - 003,MADISON PD,FALSE,0,0,"{'Description': ['Controlled Substance Violation', 'Conspiracy', 'DUI - First Offense DUI', 'POSS OF PARAPHERNALIA'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'MADISON COURT', 'MADISON COURT'], 'Bond amount': [47500.0, 47500.0, 0.0, 0.0]}"
+"JUSTIN NEIL SMITH
+                      
+",28,4/28/92,509,160,WHITE,M,BROWN,BROWN,NOT APPL,LIGHT,,,2/8/21,BK0000081549 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - Possession of Burgl', 'Controlled Substance Violation', 'Felon Carrying Concealed Weapo', 'Enhancement of Penalty for Dru', 'Controlled Substance Violation', 'False Information or Identific', 'Contempt of Court for Failure', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'RIDGELAND COURT', 'RIDGELAND COURT', 'RIDGELAND COURT', 'RIDGELAND COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [5000.0, 5000.0, 5000.0, 5000.0, 5000.0, 5000.0, 5000.0, 0.0, 0.0, 0.0, 0.0, 5000.0, 5000.0, 5000.0]}"
+"JUSTIN OPHENTEZ SMITH
+                      
+",26,4/4/94,511,230,BLACK,M,BLACK,BROWN,LOWER LI,MEDIUM,3/15/21,SO21003465,3/15/21,BK0000081673 - 001,MADISON SO,FALSE,0,0,"{'Description': ['Public Property, Church Buildi', 'Arson - Structure: Not Dwellin'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [50000.0, 50000.0]}"
+"LAKEITH DEONATE SMITH
+                      
+",19,10/3/01,603,165,BLACK,M,BLACK,BROWN,MUSTACHE,MEDIUM,,COURT,1/25/21,BK0000079102 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Accessory After the Fact'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"LAKENNETH JDARIOUS SMITH
+                      
+",29,1/26/92,506,200,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,9/1/20,BK0000080847 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"LARRY DEMOND SMITH
+                      
+",37,8/12/83,511,160,BLACK,M,BROWN,BROWN,GOATEE,MEDIUM B,,,1/14/21,BK0000080727 - 002,OTHER AGENCY/OVERNIGHT,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo', 'Fleeing LEA Vehicle / Resistin'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [5000.0, 5000.0]}"
+"NICHOLAS LASHWON SMITH
+                      
+",26,1/18/95,508,250,BLACK,M,BROWN,BROWN,GOATEE,LIGHT BR,,,5/11/21,BK0000081951 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"GUNNER NATHANIEL SPEED
+                      
+",24,9/30/96,510,180,WHITE,M,BLONDE,BLUE,FULL BEA,LIGHT,,,1/12/21,BK0000081420 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"TRAVIS JERRY SPRADLING
+                      
+",32,10/4/88,601,215,WHITE,M,BROWN,GREEN,FULL BEA,LIGHT,3/25/21,SO21003930,3/25/21,BK0000081164 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Receiving Stolen Property'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [20000.0]}"
+"JUSTIN  STABLER
+                      
+",35,2/1/86,511,176,WHITE,M,BROWN,BROWN,UNSHAVEN,OLIVE,,,7/27/20,BK0000074013 - 005,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"BOBBY DAYSHUN STAMPS
+                      
+",26,12/5/94,603,160,BLACK,M,BLACK,BROWN,CLEAN SH,MEDIUM,,,4/5/21,BK0000081795 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Receiving Stolen Property', 'Possession of Stolen Firearm', 'Failure to comply with request', 'False Information or Identific', 'Carrying a Concealed Weapon/Fa', 'Fleeing LEA Vehicle / Resistin', 'Controlled Substance Violation', 'Controlled Substance Violation', 'Controlled Substance Violation', 'Burglary - Possession of Burgl', 'Felon Carrying Concealed Weapo', 'Foreign Warrant;Fugitive;Holdi'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'RIDGELAND COURT', 'RIDGELAND COURT', 'RIDGELAND COURT', 'RIDGELAND COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'RIDGELAND COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'RIDGELAND COURT'], 'Bond amount': [6000.0, 6000.0, 0.0, 0.0, 0.0, 0.0, 5500.0, 5500.0, 0.0, 5000.0, 7000.0, 0.0]}"
+"JERRELL TYRONE STATEN
+                      
+",21,3/9/00,502,174,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM B,,,4/20/21,BK0000076722 - 003,MADISON PD,FALSE,0,0,"{'Description': ['Fleeing LEA Vehicle / Resistin', 'Aggravated Assault', 'Shoplifting', 'Fleeing LEA Vehicle / Resistin'], 'Court': ['MADISON COURT', 'MADISON COURT', 'MADISON COURT', 'MADISON COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0]}"
+"JUSTIN ANDRE STERLING
+                      
+",26,9/2/94,605,245,BLACK,M,BLACK,BROWN,FUZZ,DARK BRO,,,4/26/21,BK0000075291 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy', 'Foreign Warrant;Fugitive;Holdi'], 'Court': ['FEDERAL COURT', 'OTHER COUR COURT'], 'Bond amount': [0.0, 0.0]}"
+"HENRY LEOTIS STEVERSON
+                      
+",50,3/8/71,603,220,BLACK,M,BLACK,BROWN,UNKNOWN,DARK,,,3/23/21,BK0000005213 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"MARVIN DEAN STINGLEY
+                      
+",40,7/9/80,601,195,BLACK,M,BLACK,BROWN,MUSTACHE,MEDIUM B,3/25/21,SO21003939,3/25/21,BK0000081029 - 002,MADISON SO,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS', 'Trafficking in Controlled Subs'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [75000.0, 75000.0]}"
+"CHRISTIAN MATTHEW STOREY
+                      
+",29,1/21/92,507,150,WHITE,M,BROWN,BLUE,GOATEE,OLIVE,,,3/18/21,BK0000076597 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JONATHAN JAJUAN-DONTAE SUMMERS
+                      
+",33,10/19/87,603,229,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,5/20/21,BK0000082005 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"KENNETH MADDEN SUMRALL
+                      
+",40,12/6/80,509,115,WHITE,M,BLONDE,BROWN,FULL BEA,FAIR,,COURT,1/11/21,BK0000030397 - 004,MADISON SO,FALSE,0,0,"{'Description': ['Controlled Substance Violation'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"CARON TYRESE SUTTON
+                      
+",33,7/28/87,510,160,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,,3/27/21,BK0000035452 - 007,OTHER AGENCY/OVERNIGHT,FALSE,0,0,"{'Description': ['Probation Violation', 'Probation Violation'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"LORENZO DORRELL SUTTON
+                      
+",41,9/20/79,509,230,BLACK,M,BALD,BROWN,GOATEE,MEDIUM B,,,4/16/21,BK0000081833 - 001,DEA,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CHRISTOPHER JAMES TAYLOR
+                      
+",38,10/5/81,510,240,WHITE,M,BROWN,BLUE,FU MANCH,LIGHT,8/16/20,SO20009698,8/16/20,BK0000080768 - 001,MADISON SO,FALSE,0,0,"{'Description': ['Kidnaping', 'Aggravated Domestic Violence', 'Admin. of Justice: Obstruction; Intimida'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [500000.0, 500000.0, 0.0]}"
+"ORLANDO TIAWANN TAYLOR
+                      
+",32,12/20/88,511,198,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,4/19/21,SO21005080,4/19/21,BK0000076540 - 004,MADISON SO,FALSE,0,0,"{'Description': ['Fleeing LEA Vehicle / Resistin', 'Aggravated Domestic Violence'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"DENONTA DEMARCUS THADISON
+                      
+",39,9/29/81,600,200,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM B,,,5/18/21,BK0000081995 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ANTONIEL GABRIEL THOMAS
+                      
+",26,6/15/94,507,235,AMERICAN,M,BLACK,BROWN,GOATEE,LIGHT BR,,,3/3/20,BK0000080081 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ANTONIEL GABRIEL THOMAS
+                      
+",49,5/1/71,509,230,AMERICAN,M,BLACK,BROWN,MUSTACHE,LIGHT,,,8/28/20,BK0000080823 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"CALVIN BERNARD THOMAS
+                      
+",29,3/2/92,511,150,BLACK,M,BLACK,BROWN,FUZZ,LIGHT BR,,COURT,5/17/21,BK0000067233 - 004,MADISON SO,FALSE,0,0,"{'Description': ['Trafficking in Controlled Subs'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"CERVANTE  THOMAS
+                      
+",42,5/21/78,600,185,BLACK,M,BLACK,BROWN,CLEAN SH,DARK,,,7/31/20,BK0000080708 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"DONTE HIKEEM THOMAS
+                      
+",28,9/5/92,600,170,BLACK,M,BLACK,BROWN,CLEAN SH,LIGHT BR,,COURT,9/22/20,BK0000066675 - 006,OTHER AGENCY/OVERNIGHT,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"ALBERT DARNELL THOMPSON
+                      
+",25,4/13/95,600,175,BLACK,M,BLACK,BROWN,CLEAN SH,DARK,,,5/9/19,BK0000064641 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"DANIEL DEWAYNE THOMPSON
+                      
+",50,10/31/70,511,180,BLACK,M,BALD,BROWN,UNSHAVEN,MEDIUM,9/15/20,SO20011212,9/15/20,BK0000010620 - 018,MADISON SO,FALSE,0,0,"{'Description': ['Aggravated Assault'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [10000.0]}"
+"DAVE VENARD THOMPSON
+                      
+",39,5/14/81,511,280,BLACK,M,BLACK,BROWN,UNKNOWN,DARK BRO,,,3/26/19,BK0000017617 - 005,US MARSHAL,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"LADARIUS DANTAYE THOMPSON
+                      
+",31,7/11/89,506,150,BLACK,M,BALD,BROWN,GOATEE,DARK BRO,11/20/20,SO20014668,11/20/20,BK0000049408 - 019,MADISON SO,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo', 'Aggravated Assault', 'Aggravated Assault', 'Parole Violation'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 10000.0, 10000.0, 0.0]}"
+"MICHAEL ADAM THOMPSON
+                      
+",40,2/18/81,511,170,BLACK,M,BROWN,GREEN,GOATEE,LIGHT,10/16/20,SO20012857,10/16/20,BK0000067699 - 003,MADISON SO,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'Probation Violation'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [20000.0, 40000.0, 40000.0, 0.0]}"
+"NEELESH AJIT TIPNIS
+                      
+",49,8/10/71,511,206,OTHER,M,BLACK,BROWN,CLEAN SH,OLIVE,,COURT,1/27/21,BK0000079681 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Touching Child for Lustful Pur'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"CHRISTOPHER LEWIS TOLLIVER
+                      
+",34,9/25/86,507,145,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,,COURT,4/5/21,BK0000064848 - 003,MADISON SO,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"TREVON DEMARCUS TROTTER
+                      
+",16,12/5/04,507,130,BLACK,M,BLACK,BROWN,NOT APPL,DARK,8/19/20,SO20009835,8/19/20,BK0000080779 - 001,MADISON SO,FALSE,0,0,"{'Description': ['Taking Away of a Motor Vehicle', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Burglary - All but Dwelling', 'Receiving Stolen Property'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [4000.0, 4000.0, 4000.0, 4000.0, 4000.0]}"
+"RICKY DEMARCUS TUBBS
+                      
+",31,7/9/89,509,138,BLACK,M,BLACK,BROWN,FULL BEA,BLACK,,,6/2/21,BK0000082073 - 001,ATF,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"OTHTREZ LERMOUNT TUCKER
+                      
+",31,11/22/89,502,200,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,9/21/20,SO20011516,9/21/20,BK0000037808 - 009,MADISON SO,FALSE,0,0,"{'Description': ['Tampering', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'Trafficking in Controlled Subs', 'Felon Carrying Concealed Weapo', 'C/S SELL, TRADE, BARTER DRUGS', 'Possession of Stolen Firearm', 'Felon Carrying Concealed Weapo'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [100000.0, 100000.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"EDUARDO JESUS VALDEZ
+                      
+",20,11/11/00,504,180,HISPANIC,M,BLACK,BROWN,CLEAN SH,OLIVE,,,7/1/20,BK0000080539 - 001,MADISON PD,FALSE,0,0,"{'Description': ['Trafficking in Controlled Subs', 'Trafficking in Controlled Subs'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"RONNIE EARL VANBUREN
+                      
+",53,6/30/67,600,175,BLACK,M,GRAY/GRA,BROWN,FULL BEA,DARK,,,5/17/21,BK0000002596 - 024,CANTON PD,FALSE,0,0,"{'Description': ['Burglary - All but Dwelling'], 'Court': ['CANTON COURT'], 'Bond amount': [0.0]}"
+"WILFREDO LOUIS VEGA
+                      
+",40,10/9/80,509,165,HISPANIC,M,BLACK,BROWN,THIN BEA,MEDIUM B,1/15/21,SO21000611,1/15/21,BK0000079661 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Trafficking in Controlled Subs', 'Controlled Substance Violation'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"PAUL JOSEPH VLASAK
+                      
+",61,6/9/59,507,180,WHITE,M,GRAY/GRA,HAZEL,THIN BEA,OLIVE,,,3/6/21,BK0000081639 - 001,MADISON PD,FALSE,0,0,"{'Description': ['Fraud - Credit Card', 'Computer: Identity Theft or At', 'Burglary - All but Dwelling'], 'Court': ['MADISON COURT', 'MADISON COURT', 'MADISON COURT'], 'Bond amount': [0.0, 0.0, 0.0]}"
+"LEO  WALES
+                      
+",58,11/22/62,602,285,BLACK,M,BALD,BROWN,GOATEE,DARK BRO,,COURT,4/5/21,BK0000002917 - 019,MADISON SO,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"ANTONIO DEROE WALLACE
+                      
+",33,4/19/88,509,310,AMERICAN,M,BLACK,BROWN,THIN BEA,OLIVE,,,6/3/21,BK0000082077 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"BORIS DEMAR WARD
+                      
+",48,9/19/72,507,215,BLACK,M,BALD,BROWN,FULL BEA,MEDIUM B,,,3/13/19,BK0000076815 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Controlled Substance Violation', 'Introduction Of Contraband'], 'Court': ['FEDERAL COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0]}"
+"ARTEANNA ADDOREA WASHINGTON
+                      
+",27,7/21/93,502,210,BLACK,F,BLACK,BROWN,UNKNOWN,BLACK,,,6/12/21,BK0000082123 - 001,MADISON PD,FALSE,0,0,"{'Description': ['C/S PRESCRIPTION FRAUD', 'Controlled Substance Violation', 'Controlled Substance Violation'], 'Court': ['MADISON COURT', 'MADISON COURT', 'MADISON COURT'], 'Bond amount': [0.0, 0.0, 0.0]}"
+"ERIC WAYNE WASHINGTON
+                      
+",48,6/1/72,603,255,BLACK,M,GRAY/GRA,BROWN,MUSTACHE,DARK,,,6/3/20,BK0000080426 - 001,FBI,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"TERRANCE NICOTIS WATTS
+                      
+",50,12/23/70,508,130,BLACK,M,GRAY/GRA,BROWN,CLEAN SH,MEDIUM,,,5/17/21,BK0000004235 - 030,CANTON PD,FALSE,0,0,"{'Description': ['Shoplifting'], 'Court': ['CANTON COURT'], 'Bond amount': [0.0]}"
+"JERRY LAMOND WEATHERSPOON
+                      
+",45,10/5/75,605,190,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,4/27/21,SO21005509,4/27/21,BK0000003958 - 012,MADISON SO,FALSE,0,0,"{'Description': ['Felon Carrying Concealed Weapo'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"ANGELA CHRISTINE WEISENBERGER
+                      
+",37,7/11/83,502,130,WHITE,F,BROWN,BLUE,NOT APPL,OLIVE,5/26/21,SO21007208,5/27/21,BK0000080242 - 002,MADISON SO,TRUE,400,0,"{'Description': ['Enhancement of Penalty for Dru', 'Careless Driving', 'Improper Turn (No Turn Signal)', 'Controlled Substance Violation', 'Controlled Substance Violation'], 'Court': ['CIRCUIT COURT', 'JUSTICE COURT', 'JUSTICE COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [50000.0, 200.0, 200.0, 0.0, 0.0]}"
+"JAMES CHRISTOPHER JAC WELLS
+                      
+",22,3/23/99,601,170,WHITE,M,BLONDE,GREEN,SIDEBURN,OLIVE,6/1/21,SO21007466,6/1/21,BK0000076733 - 003,MADISON SO,FALSE,0,0,"{'Description': ['Touching Child for Lustful Pur'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"VANTORIAN  WHITE
+                      
+",30,12/7/90,505,130,BLACK,M,BLACK,BROWN,FUZZ,BLACK,,COURT,5/17/21,BK0000079753 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Enhancement of Penalty for Dru'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"KENNETH JAMES WIGGINS
+                      
+",57,6/26/63,602,232,BLACK,M,GRAY/GRA,BROWN,FULL BEA,MEDIUM B,,COURT,4/5/21,BK0000040432 - 004,MADISON SO,FALSE,0,0,"{'Description': ['Controlled Substance Violation'], 'Court': ['CIRCUIT COURT'], 'Bond amount': [0.0]}"
+"ROBERT  WIGGINS
+                      
+",31,8/23/89,604,190,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM B,,,12/11/20,BK0000081339 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"ANDRE RENE WILLIAMS
+                      
+",52,8/8/68,510,195,BLACK,M,GRAY/GRA,BROWN,LOWER LI,MEDIUM B,,,10/18/19,BK0000075970 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"DUANE LAMAR WILLIAMS
+                      
+",46,12/19/74,508,180,BLACK,M,BLACK,BROWN,MUSTACHE,MEDIUM B,,,4/14/21,BK0000081824 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"EDWARD DESHUN WILLIAMS
+                      
+",31,3/10/90,511,150,BLACK,M,BLACK,BROWN,MUSTACHE,MEDIUM B,,,6/10/19,BK0000077639 - 001,US MARSHAL,FALSE,0,0,"{'Description': ['Human Trafficking'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"GREGORY JAMAL WILLIAMS
+                      
+",41,5/18/79,507,170,BLACK,M,BALD,BROWN,GOATEE,LIGHT BR,,,12/11/20,BK0000016214 - 002,DEA,FALSE,0,0,"{'Description': ['Conspiracy', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['FEDERAL COURT', 'FEDERAL COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0, 0.0]}"
+"JUSTIN ROMELLO WILLIAMS
+                      
+",26,1/27/95,510,150,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,,COURT,5/17/21,BK0000067116 - 006,MADISON SO,FALSE,0,0,"{'Description': ['Trafficking in Controlled Subs', 'Trafficking in Controlled Subs', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'Conspiracy'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"KYNICKEUS SHYRONE WILLIAMS
+                      
+",40,9/5/80,510,205,BLACK,M,BLACK,BROWN,FULL BEA,MEDIUM B,,,1/21/21,BK0000063456 - 005,US MARSHAL,FALSE,0,0,"{'Description': ['Probation Violation'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"SHAUN ELLIOTT WILLIAMS
+                      
+",23,3/12/98,510,143,BLACK,M,BLACK,BROWN,THIN BEA,MEDIUM B,6/1/21,SO21007467,6/1/21,BK0000076658 - 004,MADISON SO,FALSE,0,0,"{'Description': ['Trafficking in Controlled Subs', 'Trafficking in Controlled Subs', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'C/S SELL, TRADE, BARTER DRUGS', 'Conspiracy'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"GENORIS RASHARD WILLIAMSON
+                      
+",21,11/26/99,509,188,BLACK,M,BLACK,BROWN,THIN BEA,MEDIUM B,5/5/21,SO21005939,5/5/21,BK0000079180 - 002,MADISON SO,FALSE,0,0,"{'Description': ['Burglary; Inhabited Dwelling H', 'Burglary - All but Dwelling', 'Sell,Delivery or Transfer of S'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [0.0, 0.0, 0.0]}"
+"CARNELIOUS KENTRELL WINTERS
+                      
+",22,11/24/98,601,175,BLACK,M,BLACK,BROWN,FULL BEA,DARK,,,3/15/21,BK0000081671 - 001,RIDGELAND PD,FALSE,0,0,"{'Description': ['Armed Carjacking/Attempted Arm', 'Motor Vehicle:failure to stop', 'False Information or Identific', 'Suspended Drivers License (Imp', 'Receiving Stolen Property'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT', 'RIDGELAND COURT', 'RIDGELAND COURT', 'RIDGELAND COURT'], 'Bond amount': [250000.0, 250000.0, 0.0, 0.0, 250000.0]}"
+"FREDDIE DEMETRIA WOLFE
+                      
+",51,1/14/70,507,158,BLACK,M,BLACK,BROWN,GOATEE,DARK,,,4/7/21,BK0000018069 - 003,CANTON PD,FALSE,0,0,"{'Description': ['Failure to comply with request', 'Fleeing LEA Vehicle / Resistin', 'Felon Carrying Concealed Weapo', 'Simple Assault-Bodily Injury', 'Simple Assault-Bodily Injury', 'Failure to comply with request', 'Fleeing LEA Vehicle / Resistin', 'Felon Carrying Concealed Weapo', 'Simple Assault-Bodily Injury', 'Simple Assault-Bodily Injury'], 'Court': ['CANTON COURT', 'CANTON COURT', 'CANTON COURT', 'CANTON COURT', 'CANTON COURT', 'CANTON COURT', 'CANTON COURT', 'CANTON COURT', 'CANTON COURT', 'CANTON COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"DARIUS DEANDRE WRIGHT
+                      
+",27,8/11/93,604,180,BLACK,M,BLACK,BROWN,UNSHAVEN,MEDIUM,,,2/6/20,BK0000077326 - 002,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"RICKY ONEAL WRIGHT
+                      
+",58,7/9/62,511,210,BLACK,M,GRAY/GRA,BROWN,MUSTACHE,MEDIUM B,,,2/3/21,BK0000049821 - 004,ATF,FALSE,0,0,"{'Description': ['C/S SELL, TRADE, BARTER DRUGS'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"SAMMY DAVIS WRIGHT
+                      
+",49,7/29/71,602,220,BLACK,M,BALD,BROWN,MUSTACHE,DARK BRO,,,3/16/20,BK0000075432 - 003,US MARSHAL,FALSE,0,0,"{'Description': ['Conspiracy'], 'Court': ['FEDERAL COURT'], 'Bond amount': [0.0]}"
+"JESMANE SHERMANE YOUNG
+                      
+",30,2/14/91,502,140,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM B,4/16/21,SO21004971,4/16/21,BK0000050890 - 011,MADISON SO,FALSE,0,0,"{'Description': ['Robbery - Armed', 'Attempted Crime'], 'Court': ['CIRCUIT COURT', 'CIRCUIT COURT'], 'Bond amount': [50000.0, 50000.0]}"
+"NEMAN MOON ZAHID
+                      
+",33,10/4/87,505,125,OTHER,M,BLACK,BROWN,FULL BEA,MEDIUM B,,,5/18/20,BK0000080365 - 001,US CUSTOMS,FALSE,0,0,"{'Description': ['Fraud - by Mail/phone/newspape', 'Fraud - by Mail/phone/newspape', 'Laundering of Monetary Instrum', 'Conspiracy'], 'Court': ['FEDERAL COURT', 'FEDERAL COURT', 'FEDERAL COURT', 'FEDERAL COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0]}"
