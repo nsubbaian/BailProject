@@ -1,0 +1,670 @@
+Name,Ages,Birthdays,Height,Weight,Race,Sex,Hair color,Eye color,Facial hair,Complexion,Off date,Case number,Intake date,Intake number,Arresting agency,Bondable?,Written bond,Cash bond,Offense(s)
+"MARCUS DESHUN AGEE
+                      
+",030,10/06/1990,600,195,BLACK,M,BLACK,BROWN,BEARD,DARK,,COURT,11/30/2020,BK0000059763 - 002,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"ROBERT  AGUILAR
+                      
+",028,07/18/1991,504,235,UNKNOWN,M,BROWN,BROWN,NONE,LIGHT BR,,COURT,07/24/2019,BK0000088085 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"THOMAS DWIGHT ALSOBROOKS
+                      
+",054,08/22/1965,510,150,WHITE,M,BALD,UNKNOWN,BEARD,LIGHT,08/05/2020,SO20022367,08/17/2020,BK0000088907 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['MurderãFelony'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"ERICK  AMAYA
+                      
+",042,04/10/1978,511,160,UNKNOWN,M,BLACK,BROWN,UNSHAVEN,FAIR,,COURT,11/20/2020,BK0000089201 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"CONNER DALLAS BAKER
+                      
+",024,03/12/1996,600,145,WHITE,M,BLACK,GREEN,BEARD,MEDIUM,08/19/2020,SO20023861,08/19/2020,BK0000084609 - 007,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', 'Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 0.0]}"
+"ASHLEY HALES BASHAM
+                      
+",046,09/04/1974,503,125,WHITE,F,BROWN,BLUE,NONE,FAIR,09/24/2020,SO20027680,09/24/2020,BK0000089064 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Trafficking in Controlled SubstancesãFelony', 'Enhancement of Penalty for Drug Charge While', ' Possession of Stolen Firearm Felony'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [20000.0, 25000.0, 1000.0]}"
+"JASON MICHAEL BEASLEY
+                      
+",046,09/12/1973,511,220,WHITE,M,BALD,BLUE,MUSTACHE,LIGHT,,COURT,08/31/2020,BK0000088982 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"JUAN  BENITEZ
+                      
+",036,10/30/1984,602,155,UNKNOWN,M,BROWN,BROWN,BEARD,RUDDY,,2021010613,01/13/2021,BK0000089366 - 001,PICAYUNE PD,False,0.0,0.0,"{'Description': ['Controlled Substance: Illegal PossessionãUnkn'], 'Court': ['MUNICIPAL COURT'], 'Bond amount': [1000.0]}"
+"AKINSOLE LORENZO BERRY
+                      
+",041,08/11/1979,600,200,BLACK,M,BLACK,BROWN,BEARD,DARK,11/28/2019,SO19035468,12/10/2020,BK0000040994 - 012,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Controlled Substance: Illegal PossessionãUnkn', 'ConspiracyãUnknown', 'Controlled Substance: Possession of Para', 'Foreign Warrant;Fugitive;Holdingã'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'MUNICIPAL COURT', 'OTHER AGEN COURT'], 'Bond amount': [3000.0, 8000.0, 500.0, 0.0]}"
+"CHAD ASHLEY BLACKWELL
+                      
+",045,08/30/1972,509,180,WHITE,M,BLONDE,BLUE,UNSHAVEN,FAIR,,COURT,06/26/2018,BK0000087228 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"WALTER EDWARD BOHL
+                      
+",064,06/11/1956,600,200,WHITE,M,BALD,UNKNOWN,NONE,FAIR,,COURT,12/04/2020,BK0000089250 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"DONZELL  BOLTON
+                      
+",040,11/17/1978,601,230,BLACK,M,BLACK,BROWN,GOATEE,FAIR,,COURT,08/16/2019,BK0000088130 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"ISSAC D BONNER
+                      
+",021,03/07/1999,601,160,BLACK,M,BLACK,BROWN,NONE,BLACK,10/08/2020,PD20003435,10/08/2020,BK0000087435 - 006,POPLARVILLE PD,False,0.0,0.0,"{'Description': ['Felon Carrying Concealed WeaponãFelony', 'Fleeing LEA Vehicle / Resisting or Obstructin', 'Foreign Warrant;Fugitive;Holdingã', 'Foreign Warrant;Fugitive;Holdingã', 'Contempt of Court-Supreme Court, Court of App', 'Contempt of Court-Supreme Court, Court of App'], 'Court': ['CIRCUIT CO COURT', 'JUSTICE CO COURT', 'OTHER AGEN COURT', 'OTHER AGEN COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [20000.0, 500.0, 0.0, 0.0, 0.0, 0.0]}"
+"ALLAN LEROY BORLAND
+                      
+",036,04/30/1984,509,160,WHITE,M,BROWN,BROWN,NONE,LIGHT,,COURT,12/18/2020,BK0000083567 - 003,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"THOMAS JOSEPH BOWERS
+                      
+",029,08/13/1991,508,140,WHITE,M,BLONDE,BLUE,BEARD,LIGHT,,2020121017,12/18/2020,BK0000088694 - 002,PICAYUNE PD,False,0.0,0.0,"{'Description': ['Receiving Stolen PropertyãUnknown', 'Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [4000.0, 0.0]}"
+"CHARLES EUGENE BOWMAN
+                      
+",061,03/20/1957,509,215,WHITE,M,GRAY/GRA,HAZEL,BEARD,LIGHT,06/28/2018,SO18015699,09/10/2018,BK0000087423 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['MurderãFelony', 'Tampering with Physical EvidenceãFelony', 'False Information or Identification to l', 'MurderãFelony'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'JUSTICE CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 0.0, 500.0, 0.0]}"
+"EARNEST ROMOND BRELAND
+                      
+",033,06/29/1986,508,200,BLACK,M,BLACK,BROWN,GOATEE,BLACK,,COURT,05/22/2020,BK0000088685 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"SANDTONIA  BROOKS
+                      
+",022,08/20/1997,507,143,BLACK,M,BLACK,BROWN,NONE,DARK,,COURT,07/14/2020,BK0000088803 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"WILLIAM RUSSELL BROOKS
+                      
+",045,10/23/1974,510,165,WHITE,M,BALD/BAL,HAZEL,GOATEE,FAIR,06/22/2020,SO20017836,06/25/2020,BK0000086424 - 003,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Receiving Stolen PropertyãUnknown', 'Foreign Warrant;Fugitive;Holdingã', 'No InsuranceãMisdemeanor', 'Operation of vehicle without payment of tax', 'Improper Equipment(Brakes)ãMisdemeanor', 'Disobedience of Traffic Control DevicesãMisde', 'Motor Vehicle Violation - No LicenseãMisdemea', 'Foreign Warrant;Fugitive;Holdingã', 'Receiving Stolen PropertyãUnknown'], 'Court': ['CIRCUIT CO COURT', 'OTHER AGEN COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT', 'OTHER AGEN COURT', 'CIRCUIT CO COURT'], 'Bond amount': [2000.0, 0.0, 1000.0, 500.0, 500.0, 500.0, 500.0, 0.0, 5000.0]}"
+"AUSTIN  BROOKSHIRE
+                      
+",018,11/05/2001,601,150,WHITE,M,BROWN,BLUE,NONE,FAIR,07/17/2020,SO20020460,09/30/2020,BK0000089079 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['MurderãFelony'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"RONRECO LASHAWN BROUGHTON
+                      
+",039,04/11/1980,500,204,BLACK,M,BALD/BAL,BLACK,BEARD,BLACK,,COURT,07/23/2019,BK0000047733 - 007,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"SKYLAR BRITTANY BROUGHTON
+                      
+",028,06/06/1992,506,140,WHITE,F,BROWN,GREEN,NONE,MEDIUM,,20120269,12/05/2020,BK0000084371 - 003,PICAYUNE PD,False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"GARY ALLAN BROWDER
+                      
+",031,02/16/1989,510,175,WHITE,M,RED/AUBU,BROWN,UNSHAVEN,FAIR,01/02/2021,SO21000115,01/02/2021,BK0000083974 - 003,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['DUI - Second ConvictionãMisdemeanor'], 'Court': ['JUSTICE CO COURT'], 'Bond amount': [1000.0]}"
+"CHARLES J. BROWN
+                      
+",040,01/29/1980,511,190,BLACK,M,BROWN,BROWN,GOATEE,DARK,,COURT,11/30/2020,BK0000089239 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"JOHN CALVIN BROWN
+                      
+",028,08/30/1992,511,153,WHITE,M,BROWN,BROWN,BEARD,LIGHT,,COURT,11/13/2020,BK0000081526 - 002,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"MARTIN STEPHEN BROWN
+                      
+",047,01/15/1973,602,210,BLACK,M,BLACK,BROWN,UNSHAVEN,DARK,,COURT,11/24/2020,BK0000089221 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"MASON CHARLES BROWN
+                      
+",032,10/25/1988,602,260,BLACK,M,BLACK,BROWN,UNSHAVEN,DARK,,COURT,11/24/2020,BK0000089220 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"NATHAN  BRYANT
+                      
+",029,03/15/1990,600,220,WHITE,M,BROWN,HAZEL,GOATEE,FAIR,,COURT,01/27/2020,BK0000088447 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"CHERISS ELISE BUCKLEY
+                      
+",043,05/20/1977,507,160,WHITE,F,RED/AUBU,BLUE,NONE,FAIR,,COURT,10/01/2020,BK0000085857 - 008,DRUG COURT,False,0.0,0.0,"{'Description': ['DRUG COURT'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"MARQUIS JAMAL BUCKLEY
+                      
+",026,12/09/1993,600,170,BLACK,M,BLACK,BROWN,MUSTACHE,MEDIUM,,COURT,09/14/2020,BK0000089039 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"RONALD  BUSBY
+                      
+",061,01/15/1959,507,160,WHITE,M,BROWN,BROWN,NONE,LIGHT,,COURT,08/18/2020,BK0000088908 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"SHAWN  BYARS
+                      
+",041,03/16/1979,510,225,WHITE,M,BROWN,HAZEL,BEARD,FAIR,,COURT,07/17/2020,BK0000088819 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"MONTRECUS JAWORSKI CAMPBELL
+                      
+",040,03/27/1980,506,212,BLACK,M,BROWN,BROWN,BEARD,DARK BRO,,COURT,08/26/2020,BK0000088964 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"JIMMIE L CATCHINGS
+                      
+",040,06/23/1980,601,200,BLACK,M,BLACK,BROWN,GOATEE,BLACK,,COURT,11/17/2020,BK0000083756 - 003,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"BILLY MACE CAVANAUGH
+                      
+",024,05/03/1996,506,115,WHITE,M,BROWN,GREEN,NONE,LIGHT,11/06/2020,SO20032066,01/01/2021,BK0000087434 - 003,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Petit Larceny;Property of a Church,Synagogue,', 'Fleeing LEA Vehicle / Resisting or Obstructin', 'No InsuranceãMisdemeanor', 'Motor Vehicle; Expired Tag', 'Controlled Substance ViolationsãUnknown'], 'Court': ['JUSTICE CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [500.0, 500.0, 1000.0, 500.0, 16000.0]}"
+"THOMAS  CHUNN
+                      
+",037,02/14/1982,510,220,WHITE,M,BROWN,BROWN,UNSHAVEN,FAIR,,COURT,06/26/2019,BK0000087999 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"LANCE WOODROW CLARK
+                      
+",031,05/26/1989,601,167,WHITE,M,BROWN,BROWN,BEARD,LIGHT,12/09/2020,SO20035543,12/09/2020,BK0000086263 - 003,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Trespass upon Enclosed Land of AnotherãMisdem', 'DRUG COURT'], 'Court': ['JUSTICE CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [500.0, 0.0]}"
+"SAMUEL CURTIS CLARK
+                      
+",030,08/12/1990,505,150,WHITE,M,BROWN,BLUE,UNSHAVEN,LIGHT,,2020121017,12/18/2020,BK0000054975 - 015,PICAYUNE PD,True,4000.0,0.0,"{'Description': ['Receiving Stolen PropertyãUnknown', 'Probation ViolationãUnknown', 'Contempt of Court-Supreme Court, Court o'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [4000.0, 0.0, 0.0]}"
+"CHRISTOPHER  CLAUSELL
+                      
+",048,03/28/1972,601,189,BLACK,M,BALD/BAL,BROWN,GOATEE,DARK BRO,,USM,09/04/2020,BK0000089005 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"CHRISTOPHER LEON CLOUD
+                      
+",037,06/05/1983,510,130,BLACK,M,BLACK,BROWN,MUSTACHE,MEDIUM B,09/26/2019,SO19029088,10/28/2020,BK0000083987 - 011,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', 'Failure to Register Under Sex Offender Regist'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 2000.0]}"
+"BRUCE LOMAR COLEMAN
+                      
+",050,12/15/1969,508,165,BLACK,M,BLACK,BROWN,GOATEE,BLACK,,COURT,05/22/2020,BK0000088687 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"SHARARD  COLLIER
+                      
+",044,09/20/1976,602,250,BLACK,M,BROWN,BROWN,UNSHAVEN,MEDIUM B,,COURT,12/23/2020,BK0000089302 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"JOSHUA AIN COLLINS
+                      
+",029,06/07/1991,507,165,WHITE,M,BROWN,HAZEL,BEARD,OLIVE,,COURT,07/23/2020,BK0000088833 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"GREGORY SAMUEL COOK
+                      
+",059,03/10/1961,601,170,WHITE,M,GRAY/GRA,HAZEL,BEARD,LIGHT,10/27/2020,SO20030937,10/27/2020,BK0000041971 - 010,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Controlled Substance: Illegal PossessionãUnkn', 'Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [12000.0, 0.0]}"
+"ANTOINE DARNELL COOPER
+                      
+",037,07/08/1983,509,165,BLACK,M,BLACK,BROWN,BEARD,DARK,10/31/2020,SO20031503,10/31/2020,BK0000036671 - 013,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"SABRINA NICOLE COOPER
+                      
+",038,11/14/1982,500,100,WHITE,F,BROWN,BROWN,NONE,FAIR,,COURT,12/04/2020,BK0000089247 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"MICHAEL PAUL COWART
+                      
+",043,02/19/1977,602,175,WHITE,M,BROWN,HAZEL,BEARD,LIGHT,11/15/2020,SO20033047,12/04/2020,BK0000088224 - 003,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['MurderãFelony'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [150000.0]}"
+"JACOB LEE CROSS
+                      
+",042,03/28/1978,600,230,WHITE,M,BLONDE,GREEN,UNSHAVEN,FAIR,,2020120670,12/12/2020,BK0000001608 - 011,PICAYUNE PD,False,0.0,0.0,"{'Description': ['Controlled Substance: Possession of Paraphern', 'Contempt of Court for Violation of Protective'], 'Court': ['MUNICIPAL COURT', 'JUSTICE CO COURT'], 'Bond amount': [500.0, 5000.0]}"
+"CHAD EVERETT CRUZ
+                      
+",045,07/21/1975,507,167,WHITE,M,BALD/BAL,GREEN,NONE,OLIVE,,COURT,01/05/2021,BK0000081160 - 003,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['Parole ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"HEATH BRYAN CUEVAS
+                      
+",028,04/16/1989,510,175,WHITE,M,BROWN,BROWN,GOATEE,FAIR,,COURT,12/29/2017,BK0000086739 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"JONATHAN THEO CULPEPPER
+                      
+",028,05/07/1992,509,170,WHITE,M,BLONDE,BLUE,GOATEE,FAIR,,2020120321,01/05/2021,BK0000056524 - 013,PICAYUNE PD,False,0.0,0.0,"{'Description': ['Larceny - GrandãFelony', 'Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT', 'OTHER AGEN COURT'], 'Bond amount': [1000.0, 0.0]}"
+"JOSEPH CARREY DAVIS
+                      
+",031,08/22/1988,603,190,WHITE,M,BLONDE,BLUE,MUSTACHE,FAIR,08/05/2020,SO20022367,08/06/2020,BK0000059326 - 009,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['MurderãFelony'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [100000.0]}"
+"RAYFIELD JOSEPH DAVIS
+                      
+",044,12/30/1976,504,120,BLACK,M,BROWN,BROWN,GOATEE,MEDIUM B,,COURT,01/09/2021,BK0000087200 - 004,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Simple Assault;Aggrav Assault; Domestic viole', 'Controlled Substance: Illegal PossessionãUnkn'], 'Court': ['JUSTICE CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [2000.0, 5000.0]}"
+"ROBERT  DAVIS
+                      
+",040,05/29/1980,511,170,WHITE,M,BROWN,BROWN,UNSHAVEN,FAIR,,COURT,10/27/2020,BK0000089134 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"ROBERT EUGENE DAVIS
+                      
+",059,01/06/1961,509,177,WHITE,M,UNKNOWN,UNKNOWN,UNKNOWN,FAIR,,COURT,11/06/2020,BK0000089155 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"STEVEN DANIEL DAVIS
+                      
+",044,01/05/1976,601,220,WHITE,M,BLACK,BROWN,NONE,FAIR,,COURT,02/10/2020,BK0000023050 - 008,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"DAVID DEANGELO DEDEAUX
+                      
+",021,03/02/1999,600,170,BLACK,M,UNKNOWN,UNKNOWN,UNKNOWN,BLACK,,COURT,11/20/2020,BK0000089199 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"CHARLES CODY DELAUGHTER
+                      
+",035,05/03/1985,509,220,WHITE,M,BLONDE,GREEN,BEARD,LIGHT,,COURT,01/11/2021,BK0000086358 - 004,DRUG COURT,False,0.0,0.0,"{'Description': ['DRUG COURT'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"ANDREW PAUL DUPONT
+                      
+",031,07/01/1988,511,200,WHITE,M,BROWN,BLUE,GOATEE,FAIR,,COURT,03/06/2020,BK0000086453 - 004,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', 'Contempt of Court-Supreme Court, Court of App'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 0.0]}"
+"GLENN J DYSART
+                      
+",065,10/26/1955,507,200,WHITE,M,GRAY/GRA,GREEN,GOATEE,LIGHT,01/01/2021,SO21000093,01/11/2021,BK0000008745 - 009,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Simple Domestic Violence;Simple Domestic 1st', 'Controlled Substance: Possession of Paraphern'], 'Court': ['JUSTICE CO COURT', 'JUSTICE CO COURT'], 'Bond amount': [3000.0, 500.0]}"
+"KEVIN VINCENT ELLIS
+                      
+",041,04/07/1979,604,205,BLACK,M,GRAY/GRA,BROWN,BEARD,MEDIUM B,,COURT,10/26/2020,BK0000089130 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"AUSTON RAY EMMONS
+                      
+",028,01/02/1992,506,140,WHITE,M,BROWN,BLUE,UNSHAVEN,FAIR,05/19/2020,SO20013949,05/20/2020,BK0000087661 - 002,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Simple Assault;Aggrav Assault; Domestic viole', 'Probation ViolationãUnknown', 'Simple AssaultãUnknown', 'Simple AssaultãUnknown', 'Arson - DwellingãFelony'], 'Court': ['JUSTICE CO COURT', 'CIRCUIT CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [3000.0, 0.0, 500.0, 500.0, 20000.0]}"
+"DONOVAN  EVANS
+                      
+",032,10/08/1987,506,180,BLACK,M,BLACK,BROWN,BEARD,DARK,,COURT,09/25/2020,BK0000089066 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"JEFFERY LAMOUNT FAIRLEY
+                      
+",052,11/29/1963,600,200,BLACK,M,GRAY/GRA,BROWN,BEARD,MEDIUM B,,COURT,02/12/2016,BK0000084724 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"BRENT  FAYARD
+                      
+",044,12/04/1975,603,200,WHITE,M,GRAY/GRA,BROWN,NONE,FAIR,,COURT,01/27/2020,BK0000088346 - 002,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"JOSE MATEO FIGUROD
+                      
+",053,08/21/1967,411,150,UNKNOWN,M,BLACK,HAZEL,MUSTACHE,MEDIUM B,01/01/2021,SO21000081,01/01/2021,BK0000089328 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['DUI - First Offense DUIãMisdemeanor', 'HOLD FOR ICE'], 'Court': ['JUSTICE CO COURT', 'OTHER AGEN COURT'], 'Bond amount': [1000.0, 0.0]}"
+"RONNIE CHRISTIAN FLEMING
+                      
+",028,01/30/1992,509,145,WHITE,M,BLACK,BROWN,NONE,LIGHT,11/13/2020,SO20032793,11/13/2020,BK0000038636 - 016,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown', 'Controlled Substance: Illegal PossessionãUnkn'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 0.0]}"
+"TIMOTHY HERMAN FRIERSON
+                      
+",059,08/16/1961,510,165,WHITE,M,BROWN,HAZEL,MUSTACHE,LIGHT,04/08/2019,SO19010157,11/17/2020,BK0000032214 - 011,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Controlled Substance: Illegal PossessionãUnkn', 'Controlled Substance ViolationsãUnknown', 'Controlled Substance ViolationsãUnknown', 'Controlled Substance ViolationsãUnknown', 'Controlled Substance ViolationsãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 5000.0, 5000.0, 5000.0, 15000.0]}"
+"TAYLOR MICHELLE GARDNER
+                      
+",023,07/30/1997,503,160,WHITE,F,BLONDE,BROWN,NONE,FAIR,,2021010343,01/07/2021,BK0000089351 - 001,PICAYUNE PD,False,0.0,0.0,"{'Description': ['Controlled Substance-Sell, Transfer,  Distrib', 'Controlled Substance-Sell, Transfer,  Distrib'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [16000.0, 16000.0]}"
+"SHELBY G GIADROSICH
+                      
+",023,03/04/1997,503,190,WHITE,F,BROWN,BROWN,NONE,LIGHT,,COURT,01/10/2021,BK0000089363 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Profanity/drunkenness in Public PlaceãMisdeme', 'HOLD'], 'Court': ['JUSTICE CO COURT', 'CHANCERY C COURT'], 'Bond amount': [0.0, 0.0]}"
+"MARY CHRISTIAN GILBERT
+                      
+",038,03/05/1982,502,130,WHITE,F,BROWN,BROWN,NONE,FAIR,,COURT,01/06/2021,BK0000007590 - 022,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['Parole ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"CHRISTOPHER KEONTE GIPSON
+                      
+",018,08/29/2002,600,160,BLACK,M,BROWN,BROWN,BEARD,LIGHT BR,,COURT,12/14/2020,BK0000088983 - 004,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CHANCERY C COURT'], 'Bond amount': [0.0]}"
+"JAMES MARTIN GOMILLION
+                      
+",036,08/24/1984,506,170,WHITE,M,BROWN,BROWN,BEARD,LIGHT,,COURT,01/10/2021,BK0000000637 - 010,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CHANCERY C COURT'], 'Bond amount': [0.0]}"
+"BORSHA  GRANVILLE
+                      
+",038,09/06/1980,509,165,BLACK,M,BLACK,BROWN,BEARD,FAIR,,COURT,07/23/2019,BK0000088070 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"JABARI  GRAY
+                      
+",042,04/20/1978,604,260,BLACK,M,BLACK,BROWN,BEARD,DARK,,COURT,08/18/2020,BK0000088911 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"SHYHEAM JOSEPH GRIFFIN
+                      
+",020,11/13/1998,601,210,BLACK,M,BLACK,BROWN,BEARD,FAIR,,COURT,07/19/2019,BK0000088050 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Exploitation of ChildrenãFelony', 'Exploitation of ChildrenãFelony', 'Exploitation of ChildrenãFelony', 'Exploitation of ChildrenãFelony', 'Exploitation of ChildrenãFelony', 'Petit Larceny; Personal Property of Another ('], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'JUSTICE CO COURT'], 'Bond amount': [75000.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"
+"CHRISTOPHER ALLEN HARGETT
+                      
+",034,08/01/1984,510,235,BLACK,M,BLACK,BROWN,NONE,BLACK,,COURT,05/22/2019,BK0000026710 - 009,PICAYUNE PD,False,0.0,0.0,"{'Description': ['Attempted Murder', 'Attempted Murder', 'Felon Carrying Concealed WeaponãFelony', 'Aggravated AssaultãFelony', 'Felon Carrying Concealed WeaponãFelony', 'Felon Carrying Concealed WeaponãFelony', 'Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [805000.0, 0.0, 0.0, 0.0, 0.0, 2500.0, 0.0]}"
+"OCTAVE  HEBERT
+                      
+",037,08/02/1982,508,190,WHITE,M,BROWN,HAZEL,BEARD,FAIR,01/17/2020,SO20001709,01/17/2020,BK0000088420 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Sexual BatteryãFelony', 'Exploitation of ChildrenãFelony', 'Foreign Warrant;Fugitive;Holdingã'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'OTHER AGEN COURT'], 'Bond amount': [20000.0, 20000.0, 0.0]}"
+"DOMINQUE LAVON HENDERSHOT
+                      
+",023,09/19/1997,509,130,BLACK,M,BLACK,BROWN,BEARD,BLACK,12/23/2020,SO20036904,12/23/2020,BK0000087459 - 003,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', 'Controlled Substance ViolationsãUnknown'], 'Court': ['JUSTICE CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [2000.0, 5000.0]}"
+"RODNEY ANDREW HENDERSON
+                      
+",033,04/11/1987,511,200,WHITE,M,BROWN,HAZEL,UNSHAVEN,LIGHT,12/24/2020,SO20036973,12/24/2020,BK0000089305 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Foreign Warrant;Fugitive;Holdingã'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"ALEXANDER COLE HENDRIX
+                      
+",030,09/03/1990,510,185,WHITE,M,BROWN,BLUE,UNSHAVEN,FAIR,01/04/2021,SO21000444,01/05/2021,BK0000028292 - 012,PEARL RIVER COUNTY,True,17500.0,0.0,"{'Description': ['Controlled Substance-Sell, Transfer,  Distrib', 'Controlled Substance-Sell, Transfer,  Distrib', 'Controlled Substance-Sell, Transfer,  Di', 'Improper Equipment(Brakes)ãMisdemeanor', ""Driving with Suspended/revoked Driver's Licen"", 'No InsuranceãMisdemeanor', 'Foreign Warrant;Fugitive;Holdingã', 'Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT', 'OTHER AGEN COURT', 'CIRCUIT CO COURT'], 'Bond amount': [5000.0, 5000.0, 5000.0, 500.0, 1000.0, 1000.0, 0.0, 0.0]}"
+"JONATHAN RAY HENRY
+                      
+",029,06/03/1991,506,140,BLACK,M,BLACK,BLACK,NONE,BLACK,,COURT,09/02/2020,BK0000088945 - 002,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown', 'Felon Carrying Concealed WeaponãFelony'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 12500.0]}"
+"SCOTTIE  HERRINGTON
+                      
+",049,03/02/1970,510,175,WHITE,M,BROWN,HAZEL,BEARD,FAIR,,COURT,01/27/2020,BK0000088435 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"PHILIP RAY HICKMAN
+                      
+",042,08/11/1978,600,205,WHITE,M,SANDY,BLUE,BEARD,LIGHT,,COURT,01/11/2021,BK0000050619 - 002,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"BENJAMIN MARENO HIGHTON
+                      
+",029,12/10/1991,501,176,WHITE,M,BROWN,BLUE,UNSHAVEN,FAIR,,COURT,12/23/2020,BK0000089299 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"CHAD LAMAR HILL
+                      
+",036,04/15/1984,508,170,WHITE,M,BROWN,BLUE,GOATEE,FAIR,,20101552,10/23/2020,BK0000012714 - 016,PICAYUNE PD,False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"TERENCE DARNELIUS HINTON
+                      
+",037,03/08/1983,602,250,BLACK,M,BROWN,BROWN,BEARD,DARK,,COURT,09/14/2020,BK0000089040 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"ERIK PAUL HOFFMAN
+                      
+",039,03/25/1981,600,250,WHITE,M,GRAY/GRA,GREEN,UNSHAVEN,FAIR,,2020121195,12/21/2020,BK0000089294 - 001,PICAYUNE PD,False,0.0,0.0,"{'Description': ['Controlled Substance-Sell, Transfer,  Distrib'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [5000.0]}"
+"TREY MALONE HUNT
+                      
+",021,03/02/1999,510,140,WHITE,M,SANDY,BLUE,UNSHAVEN,FAIR,12/26/2020,SO20037085,12/26/2020,BK0000086349 - 003,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['TrespassingãUnknown', 'Larceny - PetitãMisdemeanor', 'Malicious MischiefãUnknown'], 'Court': ['JUSTICE CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT'], 'Bond amount': [500.0, 500.0, 500.0]}"
+"LAWRENCE LAVOY JACKSON
+                      
+",035,10/15/1984,510,190,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM,,COURT,09/24/2020,BK0000085331 - 002,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM', 'ConspiracyãUnknown'], 'Court': ['FEDERAL CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 0.0]}"
+"JOHN WILSON JAMES
+                      
+",050,01/07/1966,506,160,WHITE,M,BALD/BAL,HAZEL,GOATEE,LIGHT,,COURT,06/10/2016,BK0000085097 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"JEFFERY SHAWN JARRELL
+                      
+",044,10/04/1976,511,190,WHITE,M,BROWN,HAZEL,UNSHAVEN,FAIR,,COURT,10/30/2020,BK0000031165 - 015,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"JONATHAN LEWIS JENNINGS
+                      
+",029,04/30/1991,600,200,WHITE,M,RED/AUBU,UNKNOWN,BEARD,LIGHT,,COURT,11/23/2020,BK0000089214 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"ANTONIO MOISES JOAQUIN
+                      
+",040,01/01/1980,600,150,WHITE,M,BLACK,BROWN,UNSHAVEN,FAIR,,COURT,12/23/2020,BK0000089298 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"LAKEVIN  JOBE
+                      
+",023,01/29/1997,510,204,BLACK,M,BLACK,BROWN,GOATEE,BLACK,,COURT,07/14/2020,BK0000088801 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"PRESTON LATIMER JOHN
+                      
+",030,01/26/1990,506,140,BLACK,M,BLACK,BROWN,BEARD,BLACK,01/05/2021,SO21000527,01/05/2021,BK0000080728 - 004,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Controlled Substance ViolationsãUnknown', 'Foreign Warrant;Fugitive;Holdingã'], 'Court': ['CIRCUIT CO COURT', 'OTHER AGEN COURT'], 'Bond amount': [3000.0, 0.0]}"
+"MICHAEL  JOHNSON
+                      
+",025,02/24/1995,602,175,BLACK,M,BLACK,BROWN,GOATEE,DARK,,COURT,08/18/2020,BK0000088915 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"SKYLAR  JOHNSON
+                      
+",035,01/03/1985,511,190,BLACK,M,BLACK,BLACK,MUSTACHE,BLACK,,COURT,07/17/2020,BK0000088815 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"STERNELL CHRISTOPHER JOHNSON
+                      
+",024,09/06/1995,510,150,BLACK,M,BLACK,BROWN,GOATEE,DARK,,COURT,08/21/2020,BK0000088932 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM', 'Foreign Warrant;Fugitive;Holdingã'], 'Court': ['FEDERAL CO COURT', 'OTHER AGEN COURT'], 'Bond amount': [0.0, 0.0]}"
+"TAKEANU  JOHNSON
+                      
+",022,02/24/1998,507,180,BLACK,M,BLACK,BROWN,MUSTACHE,BLACK,,COURT,07/17/2020,BK0000088811 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"GEORGE AUSTIN JONES
+                      
+",035,12/23/1985,602,180,WHITE,M,BROWN,BROWN,BEARD,LIGHT,,COURT,01/13/2021,BK0000011658 - 018,DRUG COURT,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', 'Controlled Substance ViolationsãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 15000.0]}"
+"MELVIN LIONELL JONES
+                      
+",041,12/31/1978,504,160,BLACK,M,BALD,BROWN,BEARD,DARK,,HOLD,09/04/2020,BK0000089004 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"WILLIAM CURTIS JONES
+                      
+",039,10/23/1981,600,140,WHITE,M,BLONDE,BLUE,UNSHAVEN,LIGHT,12/20/2020,SO20036601,12/20/2020,BK0000089292 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"RUSTY LEE KEENUM
+                      
+",045,05/12/1974,509,240,WHITE,M,GRAY/GRA,BLUE,MUSTACHE,LIGHT,,COURT,12/11/2019,BK0000082845 - 002,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"HEIDI TYANNE KENNEDY
+                      
+",037,02/26/1983,506,120,WHITE,F,SANDY,GREEN,NONE,LIGHT,10/11/2015,SO15016799,09/14/2020,BK0000057402 - 009,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', 'Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 0.0]}"
+"JACOB SCOTT KENNEDY
+                      
+",028,01/19/1992,508,160,WHITE,M,BROWN,BROWN,MUSTACHE,LIGHT,01/01/2021,SO21000058,01/01/2021,BK0000060747 - 014,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Controlled Substance-unlawful to by/possess/t', ""Driving with Suspended/revoked Driver's Licen"", 'Improper Equipment(Brakes)ãMisdemeanor', 'HOLD', 'Contempt of Court-Supreme Court, Court of App', 'Contempt of Court-Supreme Court, Court of App', 'Contempt of Court-Supreme Court, Court of App'], 'Court': ['CIRCUIT CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT', 'CIRCUIT CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT'], 'Bond amount': [8000.0, 1000.0, 500.0, 0.0, 0.0, 0.0, 0.0]}"
+"MATTHEW JOEL KING
+                      
+",036,05/07/1984,601,220,WHITE,M,BROWN,BLUE,GOATEE,LIGHT,05/20/2019,SO19014988,10/27/2020,BK0000003185 - 015,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', 'Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 0.0]}"
+"CHRISTOPHER  KYLE
+                      
+",043,04/20/1975,511,209,WHITE,M,BROWN,HAZEL,NONE,FAIR,,COURT,08/07/2018,BK0000087333 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"KYLE JEAN LACOSTE
+                      
+",025,07/17/1995,600,180,WHITE,M,BROWN,BROWN,GOATEE,FAIR,,20091915,09/28/2020,BK0000082274 - 018,PICAYUNE PD,False,0.0,0.0,"{'Description': ['Controlled Substance: Illegal PossessionãUnkn', 'Controlled Substance: Illegal PossessionãUnkn', 'Controlled Substance ViolationsãUnknown', 'Controlled Substance ViolationsãUnknown', 'Receiving Stolen PropertyãUnknown', 'Controlled Substance: Possession of Paraphern', 'False Information or Identification to law en', 'Contempt of Court-Supreme Court, Court of App', 'Simple Domestic Violence;Simple Domestic 1st', 'Probation ViolationãUnknown', 'Controlled Substance ViolationsãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'MUNICIPAL COURT', 'MUNICIPAL COURT', 'CIRCUIT CO COURT', 'MUNICIPAL COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [30000.0, 30000.0, 1000.0, 1000.0, 10000.0, 500.0, 500.0, 0.0, 500.0, 0.0, 0.0]}"
+"CURVIS  LADNER
+                      
+",039,12/28/1980,600,170,WHITE,M,BROWN,BLUE,UNSHAVEN,FAIR,,COURT,07/17/2020,BK0000088816 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"RUSSELL MATTHEW LADNER
+                      
+",040,01/18/1980,503,200,WHITE,M,BROWN,HAZEL,BEARD,LIGHT,09/01/2020,SO20025247,09/01/2020,BK0000018775 - 007,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Controlled Substance ViolationsãUnknown', 'Controlled Substance ViolationsãUnknown', 'Felon Carrying Concealed WeaponãFelony', 'Felon Carrying Concealed WeaponãFelony', 'Felon Carrying Concealed WeaponãFelony'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [8000.0, 0.0, 0.0, 0.0, 0.0]}"
+"JOSHUA  LEE
+                      
+",040,06/28/1980,510,160,WHITE,M,BROWN,BROWN,GOATEE,LIGHT,,COURT,11/06/2020,BK0000089159 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"KENNETH  LEWIS
+                      
+",031,06/04/1989,507,147,BLACK,M,BLACK,BROWN,UNSHAVEN,DARK,,COURT,09/11/2020,BK0000089025 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"TIMOTHY RAY LOTT
+                      
+",030,01/18/1990,511,190,WHITE,M,BROWN,BROWN,GOATEE,FAIR,,COURT,11/06/2020,BK0000089156 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"RICHARD DAVID LOWE
+                      
+",038,03/28/1982,509,185,WHITE,M,BROWN,BLUE,BEARD,FAIR,,COURT,11/30/2020,BK0000086806 - 004,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown', 'Foreign Warrant;Fugitive;Holdingã'], 'Court': ['CIRCUIT CO COURT', 'OTHER AGEN COURT'], 'Bond amount': [0.0, 0.0]}"
+"ASHTON KYLE LOWERY
+                      
+",030,03/10/1990,511,180,WHITE,M,BROWN,GREEN,BEARD,LIGHT,,COURT,01/12/2021,BK0000039807 - 014,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CHANCERY C COURT'], 'Bond amount': [0.0]}"
+"ROBERT XAVIER LUMPKIN
+                      
+",045,06/26/1975,508,150,WHITE,M,GRAY/GRA,BLUE,BEARD,FAIR,,COURT,01/08/2021,BK0000080513 - 007,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Controlled Substance: Illegal PossessionãUnkn', 'Controlled Substance: Possession of Paraphern', 'Probation ViolationãUnknown'], 'Court': ['JUSTICE CO COURT', 'JUSTICE CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [1000.0, 500.0, 0.0]}"
+"DWAYNE LAMAR MARTIN
+                      
+",036,11/04/1984,600,160,BLACK,M,BLACK,BROWN,MUSTACHE,LIGHT BR,12/10/2020,PD20004247,12/15/2020,BK0000022276 - 015,POPLARVILLE PD,False,0.0,0.0,"{'Description': ['Controlled Substance: Possession of Paraphern', 'Trespass, WillfulãMisdemeanor', 'Malicious MischiefãUnknown'], 'Court': ['MUNICIPAL COURT', 'MUNICIPAL COURT', 'MUNICIPAL COURT'], 'Bond amount': [500.0, 500.0, 500.0]}"
+"LIONEL ALBERT III MATHERNE
+                      
+",040,08/26/1980,509,165,WHITE,M,BROWN,BLUE,UNSHAVEN,FAIR,04/27/2020,SO20011507,09/18/2020,BK0000088606 - 002,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', 'Burglary - All but DwellingãFelony'], 'Court': ['JUSTICE CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 45000.0]}"
+"ROHITH  MATHEW
+                      
+",042,07/30/1977,601,176,UNKNOWN,M,GRAY/GRA,GRAY,UNSHAVEN,LIGHT BR,,COURT,07/01/2020,BK0000088779 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"WILLIE  MCCOLLUM
+                      
+",026,05/26/1994,511,180,BLACK,M,BLACK,BROWN,NONE,MEDIUM,,COURT,12/07/2020,BK0000089264 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"ERIC  MCCOY
+                      
+",056,08/17/1964,600,170,BLACK,M,GRAY/GRA,BROWN,GOATEE,MEDIUM,,COURT,08/18/2020,BK0000088920 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"JAQUANTAY LEVAIL MCGOWAN
+                      
+",021,01/11/1999,511,170,BLACK,M,BLACK,BLACK,BEARD,BLACK,,COURT,09/08/2020,BK0000086731 - 004,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown', 'Felon Carrying Concealed WeaponãFelony'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 25000.0]}"
+"PHILON RASEAN MCKINSIE
+                      
+",037,01/18/1983,510,195,BLACK,M,BLACK,BROWN,GOATEE,BLACK,,COURT,12/23/2020,BK0000020102 - 016,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CHANCERY C COURT'], 'Bond amount': [0.0]}"
+"NORMAN EUGENE MCKUNE
+                      
+",039,05/18/1980,601,190,WHITE,M,BALD,BLUE,BEARD,FAIR,03/15/2019,SO19007664,04/03/2020,BK0000087827 - 003,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', ' Possession of Stolen Firearm Felony', 'Foreign Warrant;Fugitive;Holdingã'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'OTHER AGEN COURT'], 'Bond amount': [0.0, 3000.0, 0.0]}"
+"DANIEL  MCNAIR
+                      
+",043,06/25/1977,602,230,BLACK,M,BLACK,BROWN,GOATEE,MEDIUM,,COURT,08/18/2020,BK0000088918 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"OLIVER  MCNAIR
+                      
+",029,11/19/1990,603,200,BLACK,M,BLACK,BROWN,GOATEE,BLACK,,COURT,06/23/2020,BK0000088755 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"AUSTEN ALLEN MCNAY
+                      
+",025,03/28/1995,502,140,WHITE,M,BROWN,BLUE,BEARD,LIGHT,11/03/2020,SO20031803,11/03/2020,BK0000082623 - 009,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Trespass upon Enclosed Land of AnotherãMisdem', 'Fleeing LEA Vehicle / Resisting or Obstructin', 'Probation ViolationãUnknown', 'Trespass, WillfulãMisdemeanor'], 'Court': ['JUSTICE CO COURT', 'JUSTICE CO COURT', 'CIRCUIT CO COURT', 'JUSTICE CO COURT'], 'Bond amount': [50.0, 500.0, 0.0, 500.0]}"
+"SHANE  MEDINE
+                      
+",032,02/20/1988,509,180,WHITE,M,BROWN,UNKNOWN,UNKNOWN,FAIR,,COURT,07/17/2020,BK0000088814 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"JULIO  MENDOZA-TEODORA
+                      
+",029,07/30/1991,508,150,UNKNOWN,M,BLACK,BROWN,BEARD,OLIVE,,COURT,09/01/2020,BK0000088989 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"DEMAURICE JOSEPH MILLS
+                      
+",031,08/06/1989,509,130,BLACK,M,BLACK,BROWN,BEARD,MEDIUM B,,COURT,12/04/2020,BK0000058600 - 003,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"DEVIN PRESCOTT MITCHELL
+                      
+",027,06/02/1993,511,150,WHITE,M,BLONDE,BLUE,GOATEE,FAIR,,20102131,10/31/2020,BK0000056317 - 014,PICAYUNE PD,False,0.0,0.0,"{'Description': ['Controlled Substance ViolationsãUnknown', 'Felon Carrying Concealed WeaponãFelony', 'Controlled Substance: First/second Offen', 'Controlled Substance ViolationsãUnknown', 'Probation ViolationãUnknown', 'Controlled Substance: Illegal PossessionãUnkn', 'Burglary - All but DwellingãFelony', 'Larceny - GrandãFelony', 'Trespass, WillfulãMisdemeanor', 'Burglary - All but DwellingãFelony'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'MUNICIPAL COURT', 'MUNICIPAL COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'JUSTICE CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [2000.0, 1000.0, 1000.0, 1000.0, 0.0, 1000.0, 2000.0, 2000.0, 500.0, 2000.0]}"
+"DUWAYNE CLAUDIOUS MITCHELL
+                      
+",035,06/20/1985,500,180,WHITE,M,BLACK,BROWN,BEARD,FAIR,,COURT,10/06/2020,BK0000051288 - 002,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"JIMMY  MITCHELL
+                      
+",033,06/12/1987,600,160,BLACK,M,BLACK,BLACK,GOATEE,BLACK,,COURT,07/14/2020,BK0000088799 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"KEVIN L. MITCHELL
+                      
+",022,05/20/1998,507,167,BLACK,M,BLACK,BLACK,MUSTACHE,BLACK,,COURT,11/30/2020,BK0000089237 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"CHARLES  MOORE
+                      
+",046,02/05/1974,509,190,BLACK,M,BLACK,BROWN,GOATEE,DARK,,COURT,08/18/2020,BK0000088913 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"MICHAEL JOHN PAXTON MORITZ
+                      
+",036,03/01/1984,603,170,WHITE,M,BROWN,BROWN,UNSHAVEN,FAIR,,COURT,12/03/2020,BK0000089243 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"SIMS PATRICK MORRIS
+                      
+",027,02/01/1993,601,175,WHITE,M,RED/AUBU,BROWN,BEARD,LIGHT,11/06/2020,SO20032066,11/06/2020,BK0000059237 - 006,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Foreign Warrant;Fugitive;Holdingã', 'Felon Carrying Concealed WeaponãFelony', 'Felon Carrying Concealed WeaponãFelony', 'Controlled Substance ViolationsãUnknown', 'Controlled Substance ViolationsãUnknown', ' Possession of Stolen Firearm Felony', 'Larceny - GrandãFelony', 'Controlled Substance ViolationsãUnknown', 'Controlled Substance ViolationsãUnknown', 'Felon Carrying Concealed WeaponãFelony'], 'Court': ['OTHER AGEN COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 5000.0, 5000.0, 1000.0, 1000.0, 2500.0, 5000.0, 10000.0, 10000.0, 2500.0]}"
+"RODRICK  MURRAY
+                      
+",028,10/14/1991,508,350,BLACK,M,BLACK,BROWN,BEARD,DARK,,HOLD,09/04/2020,BK0000089003 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"ANTONIO DEVON MYERS
+                      
+",027,02/04/1993,600,187,BLACK,M,BLACK,BROWN,BEARD,MEDIUM B,09/24/2020,SO20027680,09/24/2020,BK0000089065 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Motor Vehicle Violation - No LicenseãMisdemea', 'Motor Vehicle; Expired Tag', 'Trafficking in Controlled SubstancesãFel', 'Enhancement of Penalty for Drug Charge While', ' Possession of Stolen Firearm Felony', 'DRUG COURT'], 'Court': ['JUSTICE CO COURT', 'JUSTICE CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [500.0, 500.0, 20000.0, 25000.0, 1000.0, 0.0]}"
+"DIAMANTE QUANTAE MYERS
+                      
+",027,04/22/1993,505,135,BLACK,M,BLACK,BROWN,MUSTACHE,DARK,,20110107,11/02/2020,BK0000084492 - 007,PICAYUNE PD,False,0.0,0.0,"{'Description': ['Shoot into DwellingãUnknown', 'Aggravated Assault No WeaponãFelony', 'Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [10000.0, 10000.0, 0.0]}"
+"ANTHONY JUSTIN NECAISE
+                      
+",041,04/20/1979,601,250,WHITE,M,BROWN,HAZEL,UNSHAVEN,FAIR,,COURT,12/16/2020,BK0000060431 - 003,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"RUBEN STEFON NICHOLS
+                      
+",035,11/17/1984,510,175,BLACK,M,BLACK,GREEN,UNKNOWN,BLACK,,COURT,05/22/2020,BK0000088681 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"JUSTIN MARCEISE NIXON
+                      
+",033,07/14/1987,600,300,BLACK,M,BLACK,BROWN,MUSTACHE,DARK,,COURT,10/28/2020,BK0000047818 - 005,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"RYAN SCOTT ODOM
+                      
+",033,06/08/1987,511,230,WHITE,M,BROWN,HAZEL,UNSHAVEN,FAIR,,COURT,11/06/2020,BK0000089158 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"RICARDO PAUL OLAVARRIETA
+                      
+",036,10/05/1983,602,160,WHITE,M,GRAY/GRA,BROWN,UNSHAVEN,LIGHT,,COURT,09/16/2020,BK0000006727 - 006,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['Parole ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"MICHAEL JOSEPH ONEILL
+                      
+",050,06/03/1970,508,180,WHITE,M,BROWN,BROWN,GOATEE,MEDIUM,02/09/2018,SO18003152,11/02/2020,BK0000036623 - 011,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', 'Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 0.0]}"
+"JAMES CURTIS OWENS
+                      
+",020,03/24/2000,509,140,BLACK,M,BLACK,BROWN,NONE,DARK,,COURT,08/28/2020,BK0000088967 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"BRITTANY  PAINE
+                      
+",032,10/17/1988,505,150,WHITE,F,BROWN,BROWN,NONE,FAIR,,COURT,10/27/2020,BK0000089135 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"CHARVONTE JOVONE PARKER
+                      
+",024,06/29/1995,604,210,BLACK,M,BLACK,BROWN,UNSHAVEN,MEDIUM B,,COURT,02/07/2020,BK0000084643 - 002,PICAYUNE PD,False,0.0,0.0,"{'Description': ['Simple Domestic Violence;Simple Domestic 1st'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [15000.0]}"
+"LEROY MICHAEL PAVOLINI
+                      
+",030,08/16/1988,600,170,WHITE,M,BROWN,BROWN,BEARD,OLIVE,,COURT,04/09/2019,BK0000054112 - 003,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"GERBER  PINEDA-SIERRA
+                      
+",034,10/18/1986,506,160,UNKNOWN,M,BLACK,BROWN,MUSTACHE,LIGHT BR,,COURT,11/30/2020,BK0000089236 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"DEMETRIUS SHASKA PIPKINS
+                      
+",040,03/02/1979,510,230,BLACK,M,BALD,BROWN,GOATEE,LIGHT BR,08/09/2019,SO19023947,08/09/2019,BK0000087509 - 002,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Robbery - ArmedãFelony', 'ConspiracyãUnknown', 'Controlled Substance ViolationsãUnknown', 'Controlled Substance ViolationsãUnknown', 'Controlled Substance-Sell, Transfer,  Distrib'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [150000.0, 0.0, 0.0, 40000.0, 80000.0]}"
+"JOSHUA JOSEPH POMES
+                      
+",031,01/16/1989,509,240,WHITE,M,BROWN,BROWN,BEARD,FAIR,,COURT,01/08/2021,BK0000008735 - 014,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"TROY LEE POOLE
+                      
+",049,08/16/1971,600,250,BLACK,M,BLACK,BROWN,BEARD,MEDIUM,,COURT,01/08/2021,BK0000004974 - 013,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"VICTORIA NICOLE POPE
+                      
+",039,07/28/1981,502,140,WHITE,F,BROWN,HAZEL,NONE,LIGHT,,COURT,12/30/2020,BK0000015125 - 014,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown', 'Controlled Substance ViolationsãUnknown', 'Controlled Substance ViolationsãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 8000.0, 10000.0]}"
+"DURA LEE PRATER
+                      
+",035,11/28/1984,601,195,BLACK,M,BLACK,BROWN,BEARD,LIGHT,,COURT,11/06/2020,BK0000083333 - 002,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"DESHAWN LAVELL PUCKETT
+                      
+",027,12/01/1992,507,148,BLACK,M,BLACK,BROWN,MUSTACHE,BLACK,,COURT,11/06/2020,BK0000089157 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"STEPHAN BROOKS RABY
+                      
+",035,07/08/1985,603,195,WHITE,M,BROWN,BLUE,UNSHAVEN,LIGHT,01/27/2019,SO19002882,11/13/2020,BK0000087249 - 004,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Petit Larceny; Personal Property of Another (', 'Robbery - ArmedãFelony', 'Parole ViolationãUnknown'], 'Court': ['JUSTICE CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [500.0, 100000.0, 0.0]}"
+"JAVARIS JAMIR RAMSEY
+                      
+",022,08/28/1998,510,180,BLACK,M,BLACK,BROWN,UNSHAVEN,DARK,,COURT,11/24/2020,BK0000089219 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"JOHN AARON RAMSEY
+                      
+",030,09/20/1990,605,250,WHITE,M,BROWN,BLUE,BEARD,FAIR,,COURT,01/12/2021,BK0000051032 - 016,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CHANCERY C COURT'], 'Bond amount': [0.0]}"
+"CHRISTOPHER MICHAEL REED
+                      
+",037,05/09/1983,509,152,WHITE,M,BROWN,BROWN,UNSHAVEN,FAIR,,COURT,10/27/2020,BK0000089132 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', 'Foreign Warrant;Fugitive;Holdingã'], 'Court': ['CIRCUIT CO COURT', 'OTHER AGEN COURT'], 'Bond amount': [0.0, 0.0]}"
+"EDDIE O. REEVES
+                      
+",039,07/15/1981,508,206,BLACK,M,BROWN,BROWN,NONE,DARK,,COURT,11/30/2020,BK0000089238 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"MIGUEL  REYES
+                      
+",028,10/07/1990,505,140,UNKNOWN,M,BROWN,BROWN,UNSHAVEN,FAIR,,COURT,07/23/2019,BK0000088066 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['MUNICIPAL COURT'], 'Bond amount': [0.0]}"
+"MARC WAYNE RICE
+                      
+",023,02/16/1996,509,200,WHITE,M,BLONDE,BROWN,BEARD,LIGHT,,COURT,01/10/2020,BK0000084447 - 014,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['HOLD', 'Fleeing or eluding law enforcementãFelony', 'Foreign Warrant;Fugitive;Holdingã', 'Malicious MischiefãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'OTHER AGEN COURT', 'JUSTICE CO COURT'], 'Bond amount': [0.0, 5000.0, 0.0, 500.0]}"
+"RICHARD  RICKS
+                      
+",041,09/08/1977,601,235,WHITE,M,BLONDE,HAZEL,NONE,FAIR,,COURT,07/02/2019,BK0000088016 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"ALEX O ROBINSON
+                      
+",045,09/15/1975,500,200,BLACK,M,BLACK,GREEN,BEARD,MEDIUM,,2020111397,11/23/2020,BK0000035879 - 005,PICAYUNE PD,False,0.0,0.0,"{'Description': ['Simple Assault;Aggrav Assault; Domestic viole', 'HOLD'], 'Court': ['MUNICIPAL COURT', 'CIRCUIT CO COURT'], 'Bond amount': [2000.0, 0.0]}"
+"TIEMEYER  ROBINSON
+                      
+",039,08/07/1981,601,190,BLACK,M,BALD/BAL,BROWN,NONE,DARK,,COURT,09/11/2020,BK0000089027 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"MARK  ROGERS
+                      
+",023,01/02/1997,510,160,BLACK,M,BLACK,BROWN,BEARD,BLACK,,COURT,01/27/2020,BK0000088441 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"MARQUARIUS  ROGERS
+                      
+",020,04/23/2000,511,182,BLACK,M,BLACK,BROWN,GOATEE,BLACK,,COURT,06/26/2020,BK0000088766 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"TONIA ANN RYALS
+                      
+",044,11/11/1975,508,152,WHITE,F,BROWN,BROWN,NONE,LIGHT,09/09/2020,SO20026189,09/09/2020,BK0000089018 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['False Information or Identification to law en', 'Probation ViolationãUnknown', 'Foreign Warrant;Fugitive;Holdingã'], 'Court': ['JUSTICE CO COURT', 'CIRCUIT CO COURT', 'OTHER AGEN COURT'], 'Bond amount': [500.0, 0.0, 0.0]}"
+"JOSEPH ANDREW RYAN
+                      
+",041,11/18/1978,600,175,WHITE,M,BROWN,GREEN,GOATEE,FAIR,,COURT,11/16/2020,BK0000087640 - 002,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"RONNIE ANTHONY RYAN
+                      
+",020,11/29/1999,502,180,WHITE,M,BROWN,BROWN,NONE,UNKNOWN,05/01/2019,SO19012790,10/02/2020,BK0000087897 - 002,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Touching Child for Lustful Purposes; Gratific'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [50000.0]}"
+"BRENDON LEE SAIZAN
+                      
+",018,03/07/2002,506,130,WHITE,M,BROWN,HAZEL,GOATEE,LIGHT,11/05/2020,SO20032025,12/09/2020,BK0000089268 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Larceny - GrandãFelony', 'Burglary; Inhabited Dwelling House, Whether A', 'Burglary; Inhabited Dwelling House, Whet'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [10000.0, 12000.0, 13000.0]}"
+"ATEK  SALEH
+                      
+",909,11/11/1111,506,111,UNKNOWN,M,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,,COURT,01/13/2021,BK0000089365 - 001,POPLARVILLE PD,False,0.0,0.0,"{'Description': ['Malicious MischiefãUnknown'], 'Court': ['JUSTICE CO COURT'], 'Bond amount': [500.0]}"
+"JUAN ANTONIO SANCHEZ-VAZQUEZ
+                      
+",047,01/04/1973,510,205,UNKNOWN,M,GRAY/GRA,BROWN,BEARD,RUDDY,,COURT,11/23/2020,BK0000089215 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"BRANDON JOSEPH SANDROCK
+                      
+",039,10/08/1981,506,174,WHITE,M,BALD/BAL,BLUE,UNSHAVEN,FAIR,01/06/2021,SO21000561,01/06/2021,BK0000089345 - 001,PEARL RIVER COUNTY,True,21000.0,0.0,"{'Description': ['Controlled Substance-Sell, Transfer,  Distrib', 'Improper Turning at IntersectionãMisdemeanor', 'Motor Vehicle; Expired Tag', 'Foreign Warrant;Fugitive;Holdingã'], 'Court': ['CIRCUIT CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [20000.0, 500.0, 500.0, 0.0]}"
+"ELIJAH RANDALL SAUCIER
+                      
+",028,11/30/1992,506,140,WHITE,M,BROWN,BROWN,GOATEE,FAIR,01/05/2021,PD21000074,01/06/2021,BK0000089152 - 002,POPLARVILLE PD,False,0.0,0.0,"{'Description': ['Malicious MischiefãUnknown', 'Disturbing the Peace (public or peace or othe'], 'Court': ['MUNICIPAL COURT', 'MUNICIPAL COURT'], 'Bond amount': [500.0, 500.0]}"
+"JOSEPH ALLEN SCHMIDT
+                      
+",029,09/05/1991,600,180,WHITE,M,BROWN,BROWN,UNSHAVEN,FAIR,,COURT,11/06/2020,BK0000086828 - 004,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"JAMES  SCOTT
+                      
+",023,10/15/1995,509,160,WHITE,M,BROWN,BLUE,NONE,FAIR,,COURT,05/16/2019,BK0000087911 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"MICHAEL STEVENSON SEALS
+                      
+",036,12/18/1984,602,315,WHITE,M,BLACK,BROWN,BEARD,MEDIUM B,01/01/2021,SO21000080,01/01/2021,BK0000084464 - 004,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown', 'Controlled Substance ViolationsãUnknown'], 'Court': ['OTHER AGEN COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 60000.0]}"
+"JEREMY REVON SHAW
+                      
+",037,01/14/1983,508,147,WHITE,M,BROWN,BLUE,MUSTACHE,LIGHT,12/24/2020,SO20036928,12/24/2020,BK0000025131 - 005,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Receiving Stolen PropertyãUnknown', 'Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [10000.0, 0.0]}"
+"AUBREE  SIMS
+                      
+",029,12/24/1990,510,160,WHITE,M,BROWN,GREEN,BEARD,FAIR,,COURT,12/31/2019,BK0000088384 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"DAKOTA ANTHONY SMITH
+                      
+",031,12/12/1989,506,165,WHITE,M,BROWN,BROWN,UNSHAVEN,MEDIUM,,COURT,12/14/2020,BK0000056982 - 007,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"DAVID CHARLES SMITH
+                      
+",029,02/17/1991,510,150,WHITE,M,BROWN,HAZEL,BEARD,FAIR,11/03/2020,SO20031765,11/03/2020,BK0000004111 - 004,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Arson - DwellingãFelony', 'HOLD'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [20000.0, 0.0]}"
+"ELIJAH  SMITH
+                      
+",034,05/21/1986,511,190,BLACK,M,BLACK,BLACK,BEARD,BLACK,,COURT,07/17/2020,BK0000088813 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"WILLIAM PAUL SMITH
+                      
+",031,07/31/1988,600,180,WHITE,M,BROWN,BROWN,BEARD,LIGHT,12/02/2019,PD19005372,04/06/2020,BK0000038655 - 022,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Controlled Substance: Illegal PossessionãUnkn'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [3000.0]}"
+"WILLIE BERNARD SMITH
+                      
+",055,11/26/1964,506,205,BLACK,M,BLACK,BROWN,UNKNOWN,DARK,,COURT,08/27/2020,BK0000088965 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"WILLIAM CLAYTON SNELL
+                      
+",043,10/01/1977,601,195,WHITE,M,BLONDE,BLUE,UNSHAVEN,FAIR,01/06/2021,SO21000568,01/06/2021,BK0000089342 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Receiving Stolen PropertyãUnknown', 'Foreign Warrant;Fugitive;Holdingã'], 'Court': ['CIRCUIT CO COURT', 'OTHER AGEN COURT'], 'Bond amount': [0.0, 0.0]}"
+"JACOB SETH SONES
+                      
+",029,07/12/1991,600,175,WHITE,M,BROWN,BLUE,GOATEE,FAIR,07/05/2019,SO19020070,01/10/2021,BK0000082343 - 015,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', 'Controlled Substance: Illegal PossessionãUnkn', 'Failure of Owner or Operator of Motor Ve', 'Motor Vehicle; Expired Tag', 'Larceny - PetitãMisdemeanor', 'Controlled Substance: Possession of Paraphern', 'Malicious MischiefãUnknown', 'Fleeing LEA Vehicle / Resisting or Obstructin'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'MUNICIPAL COURT', 'MUNICIPAL COURT', 'MUNICIPAL COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT'], 'Bond amount': [0.0, 10000.0, 1000.0, 500.0, 500.0, 500.0, 500.0, 500.0]}"
+"JOSEPH DALE SONNIER
+                      
+",031,01/12/1989,500,175,WHITE,M,BROWN,BLUE,NONE,FAIR,,COURT,07/22/2020,BK0000057803 - 002,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"ROBERT JOSHUA ST AMAND
+                      
+",045,10/26/1975,510,200,WHITE,M,BROWN,HAZEL,GOATEE,MEDIUM,10/23/2018,SO18026707,12/18/2020,BK0000085166 - 004,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', 'Burglary - All but DwellingãFelony', 'Controlled Substance ViolationsãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 5000.0, 1000.0]}"
+"CHELCIAH DIONNE STACKS
+                      
+",043,11/19/1977,503,110,BLACK,F,BROWN,BROWN,NONE,MEDIUM,12/28/2020,SO20037236,12/28/2020,BK0000015984 - 007,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', 'Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 0.0]}"
+"PETE WILLIAM STANFIELD
+                      
+",042,08/29/1977,600,220,WHITE,M,BROWN,BLUE,UNSHAVEN,FAIR,01/13/2018,SO18000972,08/14/2020,BK0000060290 - 014,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', 'Contempt of Court-Supreme Court, Court of App', 'Controlled Substance: Possession of Para', 'Burglary - All but DwellingãFelony'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'MUNICIPAL COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 0.0, 500.0, 0.0]}"
+"NICHOLE CAROL SULLIVAN
+                      
+",046,05/03/1974,503,115,WHITE,F,BROWN,GREEN,NONE,MEDIUM,,21010590,01/12/2021,BK0000041665 - 005,PICAYUNE PD,False,0.0,0.0,"{'Description': ['Controlled Substance: possession .1 gr < 2 gr'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"JIMMIE LEE SWEARENGEN
+                      
+",040,11/14/1979,511,315,BLACK,M,BALD/BAL,BROWN,UNSHAVEN,DARK,,COURT,06/18/2020,BK0000088740 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"BRANDON ANDREW TARVER
+                      
+",021,06/05/1998,511,140,WHITE,M,BROWN,HAZEL,NONE,FAIR,,COURT,01/16/2020,BK0000084659 - 009,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['HOLD', 'Simple AssaultãUnknown'], 'Court': ['CIRCUIT CO COURT', 'JUSTICE CO COURT'], 'Bond amount': [0.0, 500.0]}"
+"CONNOR JAMES TAYLOR
+                      
+",019,09/11/2000,508,140,WHITE,M,BROWN,BLUE,GOATEE,FAIR,01/11/2020,SO20001036,02/18/2020,BK0000087424 - 005,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Burglary; Inhabited Dwelling House, Whether A', 'Larceny - GrandãFelony', 'Directing/causing Felony by Person under', 'ConspiracyãUnknown', 'Malicious/mischievous Injury to Animals/lives', 'Motor Vehicle:failure to stop pursuant to sig', 'Reckless DrivingãMisdemeanor', 'Motor Vehicle Violation - No LicenseãMisdemea'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT'], 'Bond amount': [0.0, 0.0, 0.0, 0.0, 10000.0, 20000.0, 500.0, 500.0]}"
+"RENALDO  TAYLOR
+                      
+",044,04/05/1976,506,200,BLACK,M,BLACK,BROWN,BEARD,DARK,03/07/2020,SO20006561,12/30/2020,BK0000002013 - 012,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App'], 'Court': ['JUSTICE CO COURT'], 'Bond amount': [0.0]}"
+"ZACKARY TOMAS TAYLOR
+                      
+",022,08/07/1998,510,160,BLACK,M,BLACK,GREEN,GOATEE,LIGHT BR,12/04/2020,SO20035012,12/04/2020,BK0000087066 - 010,PEARL RIVER COUNTY,True,2000.0,0.0,"{'Description': ['Probation ViolationãUnknown', 'DUI - First Offense DUIãMisdemeanor', 'Motor Vehicle:operation of motor vehicle', 'Foreign Warrant;Fugitive;Holdingã'], 'Court': ['CIRCUIT CO COURT', 'JUSTICE CO COURT', 'JUSTICE CO COURT', 'OTHER AGEN COURT'], 'Bond amount': [0.0, 1000.0, 1000.0, 0.0]}"
+"DANNY RAY TEDFORD
+                      
+",057,10/21/1962,511,195,WHITE,M,BROWN,UNKNOWN,UNKNOWN,FAIR,,COURT,07/17/2020,BK0000088820 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"PATRICK RYAN TEZENO
+                      
+",036,08/08/1984,504,165,BLACK,M,BLACK,BROWN,MUSTACHE,DARK BRO,,21010483,01/10/2021,BK0000089007 - 002,PICAYUNE PD,False,0.0,0.0,"{'Description': ['DUI - Second ConvictionãMisdemeanor', 'General Ordinances; penaltiesãMisdemeanor', 'Contempt of Court-Supreme Court, Court o'], 'Court': ['MUNICIPAL COURT', 'MUNICIPAL COURT', 'MUNICIPAL COURT'], 'Bond amount': [1000.0, 250.0, 0.0]}"
+"CINDA N THIGPEN
+                      
+",062,10/15/1956,506,150,WHITE,F,BLONDE,HAZEL,NONE,FAIR,08/23/2019,SO19025693,08/23/2019,BK0000021194 - 005,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Controlled Substance ViolationsãUnknown', 'Controlled Substance ViolationsãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [1000.0, 0.0]}"
+"OSCAR  THOMAS
+                      
+",040,01/11/1980,508,210,BLACK,M,GRAY/GRA,BROWN,BEARD,DARK,,COURT,11/16/2020,BK0000089185 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"KRISTEN  TIMBERLAKE
+                      
+",029,04/25/1991,502,150,WHITE,F,BROWN,HAZEL,NONE,LIGHT,,COURT,01/08/2021,BK0000087255 - 003,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Controlled Substance: Illegal PossessionãUnkn', 'Controlled Substance: Possession of Paraphern'], 'Court': ['JUSTICE CO COURT', 'JUSTICE CO COURT'], 'Bond amount': [1000.0, 500.0]}"
+"JAMES EDWARD TODD
+                      
+",075,07/09/1945,508,245,WHITE,M,GRAY/GRA,BLUE,UNSHAVEN,FAIR,,COURT,11/16/2020,BK0000087852 - 002,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"LAWRENCE PAUL TRAHANT
+                      
+",035,05/18/1985,508,205,WHITE,M,BLACK,BROWN,UNSHAVEN,OLIVE,10/13/2019,SO19030737,09/28/2020,BK0000029500 - 004,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Touching Child for Lustful Purposes; Gratific', 'Touching Child for Lustful Purposes; Gratific', 'Touching Child for Lustful Purposes; Gra'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [25000.0, 25000.0, 25000.0]}"
+"TRISTON GAGE TROTTER
+                      
+",023,09/27/1996,602,210,BLACK,M,BLACK,BROWN,NONE,LIGHT,09/14/2020,SO20026720,09/14/2020,BK0000084295 - 008,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', ' Possession of Stolen Firearm Felony', ' Possession of Stolen Firearm Felony'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 0.0, 5000.0]}"
+"FARREL  UPCHURCH
+                      
+",042,08/08/1977,605,210,WHITE,M,BALD,BLUE,UNKNOWN,FAIR,,COURT,09/20/2019,BK0000088207 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"STEVEN MICHAEL VANTESLAAR
+                      
+",048,09/01/1972,511,200,WHITE,M,BROWN,BLUE,GOATEE,LIGHT,,20120265,12/06/2020,BK0000084980 - 002,PICAYUNE PD,False,0.0,0.0,"{'Description': ['Failure to comply with requests of officerãUn', 'Controlled Substance ViolationsãUnknown', 'Burglary - All but DwellingãFelony'], 'Court': ['MUNICIPAL COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [500.0, 8000.0, 0.0]}"
+"PAUL DEWAYNE WALKER
+                      
+",046,04/14/1974,602,240,WHITE,M,GRAY/GRA,HAZEL,UNSHAVEN,FAIR,11/12/2020,SO20032692,11/12/2020,BK0000089168 - 002,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Disturbance in Public PlaceãMisdemeanor', 'Fleeing LEA Vehicle / Resisting or Obstructin'], 'Court': ['JUSTICE CO COURT', 'JUSTICE CO COURT'], 'Bond amount': [500.0, 500.0]}"
+"TOMMY BURTON WALLER
+                      
+",039,06/26/1981,504,148,WHITE,M,SANDY,GREEN,UNSHAVEN,RUDDY,02/10/2020,SO20003943,12/14/2020,BK0000088473 - 002,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Burglary - All but DwellingãFelony'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [1000.0]}"
+"RAYMOND RAQUAN WALSTON
+                      
+",022,02/09/1998,601,185,BLACK,M,BLACK,BROWN,BEARD,BLACK,,COURT,08/25/2020,BK0000088956 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM', 'Simple Assault;Aggrav Assault; Domestic viole'], 'Court': ['FEDERAL CO COURT', 'JUSTICE CO COURT'], 'Bond amount': [0.0, 500.0]}"
+"REGINALD DEAN WALTERS
+                      
+",052,01/01/1968,600,230,WHITE,M,GRAY/GRA,BLUE,GOATEE,LIGHT,08/28/2020,SO20024785,08/28/2020,BK0000001074 - 012,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown', 'Failure to Register Under Sex Offender Regist'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 1000.0]}"
+"CARLOS  WARE
+                      
+",044,07/07/1976,600,215,BLACK,M,BLACK,BROWN,NONE,BLACK,,COURT,09/11/2020,BK0000089024 - 001,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"CHRISTOPHER ALLEN WEIDERT
+                      
+",036,11/21/1983,507,160,WHITE,M,BROWN,BLUE,BEARD,FAIR,01/09/2018,SO18000625,07/20/2020,BK0000055747 - 007,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Contempt of Court-Supreme Court, Court of App', 'Burglary - All but DwellingãFelony', 'Controlled Substance: Illegal Possession', 'ConspiracyãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 7000.0, 8000.0, 5000.0]}"
+"BLAINNIE WILLIAM WEST
+                      
+",032,04/11/1988,511,185,WHITE,M,SANDY,BLUE,NONE,LIGHT,,COURT,01/11/2021,BK0000034986 - 016,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Trespass, WillfulãMisdemeanor'], 'Court': ['JUSTICE CO COURT'], 'Bond amount': [500.0]}"
+"AMBER  WILLARD
+                      
+",026,10/05/1992,506,146,WHITE,F,BLONDE,BLUE,NONE,OLIVE,06/15/2019,SO19017966,06/15/2019,BK0000087969 - 001,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Burglary; Inhabited Dwelling House, Whether A', 'Escape of Prisoners; Escape or attempt to esc'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT'], 'Bond amount': [0.0, 5000.0]}"
+"BRYSON DUVALL WILLIAMS
+                      
+",038,07/11/1981,601,240,BLACK,M,BLACK,BROWN,BEARD,MEDIUM B,,COURT,08/16/2019,BK0000055328 - 002,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['OTHER AGEN COURT'], 'Bond amount': [0.0]}"
+"JERMAINE SYLLESTER WILLIAMS
+                      
+",045,03/08/1975,508,170,BLACK,M,BLACK,BROWN,BEARD,DARK,,COURT,11/06/2020,BK0000053122 - 004,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['HOLD'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
+"JAMES  WINDHAM
+                      
+",024,06/04/1996,507,160,BLACK,M,BLACK,BROWN,BEARD,LIGHT BR,,COURT,11/05/2020,BK0000089150 - 001,US MARSHALS,False,0.0,0.0,"{'Description': ['HOLD FOR USM'], 'Court': ['FEDERAL CO COURT'], 'Bond amount': [0.0]}"
+"MICHAEL  WOODWARD
+                      
+",028,02/09/1992,508,160,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,09/12/2019,SO19027634,06/29/2020,BK0000018060 - 010,PEARL RIVER COUNTY,False,0.0,0.0,"{'Description': ['Fleeing or eluding law enforcementãFelony', 'Fleeing or eluding law enforcementãFelony', 'Disobedience of Traffic Control Devicesã', 'Disobedience of Traffic Control DevicesãMisde', 'Disobedience of Traffic Control DevicesãMisde', 'Disobedience of Traffic Control DevicesãMisde', 'Disobedience of Traffic Control DevicesãMisde', 'Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT', 'CIRCUIT CO COURT', 'MUNICIPAL COURT', 'MUNICIPAL COURT', 'MUNICIPAL COURT', 'MUNICIPAL COURT', 'MUNICIPAL COURT', 'CIRCUIT CO COURT'], 'Bond amount': [15000.0, 30000.0, 500.0, 500.0, 500.0, 500.0, 500.0, 0.0]}"
+"THOMAS EDWARD YOUNG
+                      
+",038,02/14/1982,511,230,BLACK,M,BLACK,BROWN,GOATEE,DARK BRO,,COURT,10/19/2020,BK0000086471 - 003,DEPT OF CORR (MDOC),False,0.0,0.0,"{'Description': ['Probation ViolationãUnknown'], 'Court': ['CIRCUIT CO COURT'], 'Bond amount': [0.0]}"
